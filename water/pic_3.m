@@ -1,0 +1,15 @@
+I = imread('rice.png'); 
+level=graythresh(I);
+bw=imbinarize(I, level);
+level2 = level * 0.9;
+bw09=imbinarize(I, level2);
+level3 = level * 1.1;
+bw11=imbinarize(I, level3);
+subplot(2,2,1); 
+imshow(I);
+subplot (2,2,2); 
+imshow(bw);
+subplot (2,2,3); 
+imshow(bw09);
+subplot (2,2,4); 
+imshow(bw11);

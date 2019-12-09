@@ -1,0 +1,1241 @@
+initial K's point 
+ 1 times iteration
+No:1	 sample is 5.100000    3.500000   1.400000   0.200000 ---->	this is 3 class
+No:2	 sample is 4.900000    3.000000   1.400000   0.200000 ---->	this is 3 class
+No:3	 sample is 4.700000    3.200000   1.300000   0.200000 ---->	this is 3 class
+No:4	 sample is 4.600000    3.100000   1.500000   0.200000 ---->	this is 3 class
+No:5	 sample is 5.000000    3.600000   1.400000   0.200000 ---->	this is 3 class
+No:6	 sample is 5.400000    3.900000   1.700000   0.400000 ---->	this is 3 class
+No:7	 sample is 4.600000    3.400000   1.400000   0.300000 ---->	this is 3 class
+No:8	 sample is 5.000000    3.400000   1.500000   0.200000 ---->	this is 3 class
+No:9	 sample is 4.400000    2.900000   1.400000   0.200000 ---->	this is 3 class
+No:10	 sample is 4.900000    3.100000   1.500000   0.100000 ---->	this is 3 class
+No:11	 sample is 5.400000    3.700000   1.500000   0.200000 ---->	this is 3 class
+No:12	 sample is 4.800000    3.400000   1.600000   0.200000 ---->	this is 3 class
+No:13	 sample is 4.800000    3.000000   1.400000   0.100000 ---->	this is 3 class
+No:14	 sample is 4.300000    3.000000   1.100000   0.100000 ---->	this is 3 class
+No:15	 sample is 5.800000    4.000000   1.200000   0.200000 ---->	this is 3 class
+No:16	 sample is 5.700000    4.400000   1.500000   0.400000 ---->	this is 3 class
+No:17	 sample is 5.400000    3.900000   1.300000   0.400000 ---->	this is 3 class
+No:18	 sample is 5.100000    3.500000   1.400000   0.300000 ---->	this is 3 class
+No:19	 sample is 5.700000    3.800000   1.700000   0.300000 ---->	this is 3 class
+No:20	 sample is 5.100000    3.800000   1.500000   0.300000 ---->	this is 3 class
+No:21	 sample is 5.400000    3.400000   1.700000   0.200000 ---->	this is 3 class
+No:22	 sample is 5.100000    3.700000   1.500000   0.400000 ---->	this is 3 class
+No:23	 sample is 4.600000    3.600000   1.000000   0.200000 ---->	this is 3 class
+No:24	 sample is 5.100000    3.300000   1.700000   0.500000 ---->	this is 3 class
+No:25	 sample is 4.800000    3.400000   1.900000   0.200000 ---->	this is 3 class
+No:26	 sample is 5.000000    3.000000   1.600000   0.200000 ---->	this is 3 class
+No:27	 sample is 5.000000    3.400000   1.600000   0.400000 ---->	this is 3 class
+No:28	 sample is 5.200000    3.500000   1.500000   0.200000 ---->	this is 3 class
+No:29	 sample is 5.200000    3.400000   1.400000   0.200000 ---->	this is 3 class
+No:30	 sample is 4.700000    3.200000   1.600000   0.200000 ---->	this is 3 class
+No:31	 sample is 4.800000    3.100000   1.600000   0.200000 ---->	this is 3 class
+No:32	 sample is 5.400000    3.400000   1.500000   0.400000 ---->	this is 3 class
+No:33	 sample is 5.200000    4.100000   1.500000   0.100000 ---->	this is 3 class
+No:34	 sample is 5.500000    4.200000   1.400000   0.200000 ---->	this is 3 class
+No:35	 sample is 4.900000    3.100000   1.500000   0.100000 ---->	this is 3 class
+No:36	 sample is 5.000000    3.200000   1.200000   0.200000 ---->	this is 3 class
+No:37	 sample is 5.500000    3.500000   1.300000   0.200000 ---->	this is 3 class
+No:38	 sample is 4.900000    3.100000   1.500000   0.100000 ---->	this is 3 class
+No:39	 sample is 4.400000    3.000000   1.300000   0.200000 ---->	this is 3 class
+No:40	 sample is 5.100000    3.400000   1.500000   0.200000 ---->	this is 3 class
+No:41	 sample is 5.000000    3.500000   1.300000   0.300000 ---->	this is 3 class
+No:42	 sample is 4.500000    2.300000   1.300000   0.300000 ---->	this is 3 class
+No:43	 sample is 4.400000    3.200000   1.300000   0.200000 ---->	this is 3 class
+No:44	 sample is 5.000000    3.500000   1.600000   0.600000 ---->	this is 3 class
+No:45	 sample is 5.100000    3.800000   1.900000   0.400000 ---->	this is 3 class
+No:46	 sample is 4.800000    3.000000   1.400000   0.300000 ---->	this is 3 class
+No:47	 sample is 5.100000    3.800000   1.600000   0.200000 ---->	this is 3 class
+No:48	 sample is 4.600000    3.200000   1.400000   0.200000 ---->	this is 3 class
+No:49	 sample is 5.300000    3.700000   1.500000   0.200000 ---->	this is 3 class
+No:50	 sample is 5.000000    3.300000   1.400000   0.200000 ---->	this is 3 class
+No:51	 sample is 7.000000    3.200000   4.700000   1.400000 ---->	this is 2 class
+No:52	 sample is 6.400000    3.200000   4.500000   1.500000 ---->	this is 1 class
+No:53	 sample is 6.900000    3.100000   4.900000   1.500000 ---->	this is 2 class
+No:54	 sample is 5.500000    2.300000   4.000000   1.300000 ---->	this is 1 class
+No:55	 sample is 6.500000    2.800000   4.600000   1.500000 ---->	this is 1 class
+No:56	 sample is 5.700000    2.800000   4.500000   1.300000 ---->	this is 1 class
+No:57	 sample is 6.300000    3.300000   4.700000   1.600000 ---->	this is 1 class
+No:58	 sample is 4.900000    2.400000   3.300000   1.000000 ---->	this is 1 class
+No:59	 sample is 6.600000    2.900000   4.600000   1.300000 ---->	this is 1 class
+No:60	 sample is 5.200000    2.700000   3.900000   1.400000 ---->	this is 1 class
+No:61	 sample is 5.000000    2.000000   3.500000   1.000000 ---->	this is 1 class
+No:62	 sample is 5.900000    3.000000   4.200000   1.500000 ---->	this is 1 class
+No:63	 sample is 6.000000    2.200000   4.000000   1.000000 ---->	this is 1 class
+No:64	 sample is 6.100000    2.900000   4.700000   1.400000 ---->	this is 1 class
+No:65	 sample is 5.600000    2.900000   3.600000   1.300000 ---->	this is 1 class
+No:66	 sample is 6.700000    3.100000   4.400000   1.400000 ---->	this is 1 class
+No:67	 sample is 5.600000    3.000000   4.500000   1.500000 ---->	this is 1 class
+No:68	 sample is 5.800000    2.700000   4.100000   1.000000 ---->	this is 1 class
+No:69	 sample is 6.200000    2.200000   4.500000   1.500000 ---->	this is 1 class
+No:70	 sample is 5.600000    2.500000   3.900000   1.100000 ---->	this is 1 class
+No:71	 sample is 5.900000    3.200000   4.800000   1.800000 ---->	this is 1 class
+No:72	 sample is 6.100000    2.800000   4.000000   1.300000 ---->	this is 1 class
+No:73	 sample is 6.300000    2.500000   4.900000   1.500000 ---->	this is 1 class
+No:74	 sample is 6.100000    2.800000   4.700000   1.200000 ---->	this is 1 class
+No:75	 sample is 6.400000    2.900000   4.300000   1.300000 ---->	this is 1 class
+No:76	 sample is 6.600000    3.000000   4.400000   1.400000 ---->	this is 1 class
+No:77	 sample is 6.800000    2.800000   4.800000   1.400000 ---->	this is 1 class
+No:78	 sample is 6.700000    3.000000   5.000000   1.700000 ---->	this is 2 class
+No:79	 sample is 6.000000    2.900000   4.500000   1.500000 ---->	this is 1 class
+No:80	 sample is 5.700000    2.600000   3.500000   1.000000 ---->	this is 1 class
+No:81	 sample is 5.500000    2.400000   3.800000   1.100000 ---->	this is 1 class
+No:82	 sample is 5.500000    2.400000   3.700000   1.000000 ---->	this is 1 class
+No:83	 sample is 5.800000    2.700000   3.900000   1.200000 ---->	this is 1 class
+No:84	 sample is 6.000000    2.700000   5.100000   1.600000 ---->	this is 1 class
+No:85	 sample is 5.400000    3.000000   4.500000   1.500000 ---->	this is 1 class
+No:86	 sample is 6.000000    3.400000   4.500000   1.600000 ---->	this is 1 class
+No:87	 sample is 6.700000    3.100000   4.700000   1.500000 ---->	this is 1 class
+No:88	 sample is 6.300000    2.300000   4.400000   1.300000 ---->	this is 1 class
+No:89	 sample is 5.600000    3.000000   4.100000   1.300000 ---->	this is 1 class
+No:90	 sample is 5.500000    2.500000   4.000000   1.300000 ---->	this is 1 class
+No:91	 sample is 5.500000    2.600000   4.400000   1.200000 ---->	this is 1 class
+No:92	 sample is 6.100000    3.000000   4.600000   1.400000 ---->	this is 1 class
+No:93	 sample is 5.800000    2.600000   4.000000   1.200000 ---->	this is 1 class
+No:94	 sample is 5.000000    2.300000   3.300000   1.000000 ---->	this is 1 class
+No:95	 sample is 5.600000    2.700000   4.200000   1.300000 ---->	this is 1 class
+No:96	 sample is 5.700000    3.000000   4.200000   1.200000 ---->	this is 1 class
+No:97	 sample is 5.700000    2.900000   4.200000   1.300000 ---->	this is 1 class
+No:98	 sample is 6.200000    2.900000   4.300000   1.300000 ---->	this is 1 class
+No:99	 sample is 5.100000    2.500000   3.000000   1.100000 ---->	this is 1 class
+No:100	 sample is 5.700000    2.800000   4.100000   1.300000 ---->	this is 1 class
+No:101	 sample is 6.300000    3.300000   6.000000   2.500000 ---->	this is 2 class
+No:102	 sample is 5.800000    2.700000   5.100000   1.900000 ---->	this is 1 class
+No:103	 sample is 7.100000    3.000000   5.900000   2.100000 ---->	this is 2 class
+No:104	 sample is 6.300000    2.900000   5.600000   1.800000 ---->	this is 2 class
+No:105	 sample is 6.500000    3.000000   5.800000   2.200000 ---->	this is 2 class
+No:106	 sample is 7.600000    3.000000   6.600000   2.100000 ---->	this is 2 class
+No:107	 sample is 4.900000    2.500000   4.500000   1.700000 ---->	this is 1 class
+No:108	 sample is 7.300000    2.900000   6.300000   1.800000 ---->	this is 2 class
+No:109	 sample is 6.700000    2.500000   5.800000   1.800000 ---->	this is 2 class
+No:110	 sample is 7.200000    3.600000   6.100000   2.500000 ---->	this is 2 class
+No:111	 sample is 6.500000    3.200000   5.100000   2.000000 ---->	this is 2 class
+No:112	 sample is 6.400000    2.700000   5.300000   1.900000 ---->	this is 2 class
+No:113	 sample is 6.800000    3.000000   5.500000   2.100000 ---->	this is 2 class
+No:114	 sample is 5.700000    2.500000   5.000000   2.000000 ---->	this is 1 class
+No:115	 sample is 5.800000    2.800000   5.100000   2.400000 ---->	this is 1 class
+No:116	 sample is 6.400000    3.200000   5.300000   2.300000 ---->	this is 2 class
+No:117	 sample is 6.500000    3.000000   5.500000   1.800000 ---->	this is 2 class
+No:118	 sample is 7.700000    3.800000   6.700000   2.200000 ---->	this is 2 class
+No:119	 sample is 7.700000    2.600000   6.900000   2.300000 ---->	this is 2 class
+No:120	 sample is 6.000000    2.200000   5.000000   1.500000 ---->	this is 1 class
+No:121	 sample is 6.900000    3.200000   5.700000   2.300000 ---->	this is 2 class
+No:122	 sample is 5.600000    2.800000   4.900000   2.000000 ---->	this is 1 class
+No:123	 sample is 7.700000    2.800000   6.700000   2.000000 ---->	this is 2 class
+No:124	 sample is 6.300000    2.700000   4.900000   1.800000 ---->	this is 1 class
+No:125	 sample is 6.700000    3.300000   5.700000   2.100000 ---->	this is 2 class
+No:126	 sample is 7.200000    3.200000   6.000000   1.800000 ---->	this is 2 class
+No:127	 sample is 6.200000    2.800000   4.800000   1.800000 ---->	this is 1 class
+No:128	 sample is 6.100000    3.000000   4.900000   1.800000 ---->	this is 1 class
+No:129	 sample is 6.400000    2.800000   5.600000   2.100000 ---->	this is 2 class
+No:130	 sample is 7.200000    3.000000   5.800000   1.600000 ---->	this is 2 class
+No:131	 sample is 7.400000    2.800000   6.100000   1.900000 ---->	this is 2 class
+No:132	 sample is 7.900000    3.800000   6.400000   2.000000 ---->	this is 2 class
+No:133	 sample is 6.400000    2.800000   5.600000   2.200000 ---->	this is 2 class
+No:134	 sample is 6.300000    2.800000   5.100000   1.500000 ---->	this is 1 class
+No:135	 sample is 6.100000    2.600000   5.600000   1.400000 ---->	this is 1 class
+No:136	 sample is 7.700000    3.000000   6.100000   2.300000 ---->	this is 2 class
+No:137	 sample is 6.300000    3.400000   5.600000   2.400000 ---->	this is 2 class
+No:138	 sample is 6.400000    3.100000   5.500000   1.800000 ---->	this is 2 class
+No:139	 sample is 6.000000    3.000000   4.800000   1.800000 ---->	this is 1 class
+No:140	 sample is 6.900000    3.100000   5.400000   2.100000 ---->	this is 2 class
+No:141	 sample is 6.700000    3.100000   5.600000   2.400000 ---->	this is 2 class
+No:142	 sample is 6.900000    3.100000   5.100000   2.300000 ---->	this is 2 class
+No:143	 sample is 5.800000    2.700000   5.100000   1.900000 ---->	this is 1 class
+No:144	 sample is 6.800000    3.200000   5.900000   2.300000 ---->	this is 2 class
+No:145	 sample is 6.700000    3.300000   5.700000   2.500000 ---->	this is 2 class
+No:146	 sample is 6.700000    3.000000   5.200000   2.300000 ---->	this is 2 class
+No:147	 sample is 6.300000    2.500000   5.000000   1.900000 ---->	this is 1 class
+No:148	 sample is 6.500000    3.000000   5.200000   2.000000 ---->	this is 2 class
+No:149	 sample is 6.200000    3.400000   5.400000   2.300000 ---->	this is 2 class
+No:150	 sample is 5.900000    3.000000   5.100000   1.800000 ---->	this is 1 class
+target 1 is 6.009400    2.819765   5.068419   1.820512
+target 2 is 6.406676    3.228356   5.357221   2.236506
+target 3 is 5.023166    3.416569   1.446218   0.209654
+ 2 times iteration
+No:1	 sample is 5.100000    3.500000   1.400000   0.200000 ---->	this is 3 class
+No:2	 sample is 4.900000    3.000000   1.400000   0.200000 ---->	this is 3 class
+No:3	 sample is 4.700000    3.200000   1.300000   0.200000 ---->	this is 3 class
+No:4	 sample is 4.600000    3.100000   1.500000   0.200000 ---->	this is 3 class
+No:5	 sample is 5.000000    3.600000   1.400000   0.200000 ---->	this is 3 class
+No:6	 sample is 5.400000    3.900000   1.700000   0.400000 ---->	this is 3 class
+No:7	 sample is 4.600000    3.400000   1.400000   0.300000 ---->	this is 3 class
+No:8	 sample is 5.000000    3.400000   1.500000   0.200000 ---->	this is 3 class
+No:9	 sample is 4.400000    2.900000   1.400000   0.200000 ---->	this is 3 class
+No:10	 sample is 4.900000    3.100000   1.500000   0.100000 ---->	this is 3 class
+No:11	 sample is 5.400000    3.700000   1.500000   0.200000 ---->	this is 3 class
+No:12	 sample is 4.800000    3.400000   1.600000   0.200000 ---->	this is 3 class
+No:13	 sample is 4.800000    3.000000   1.400000   0.100000 ---->	this is 3 class
+No:14	 sample is 4.300000    3.000000   1.100000   0.100000 ---->	this is 3 class
+No:15	 sample is 5.800000    4.000000   1.200000   0.200000 ---->	this is 3 class
+No:16	 sample is 5.700000    4.400000   1.500000   0.400000 ---->	this is 3 class
+No:17	 sample is 5.400000    3.900000   1.300000   0.400000 ---->	this is 3 class
+No:18	 sample is 5.100000    3.500000   1.400000   0.300000 ---->	this is 3 class
+No:19	 sample is 5.700000    3.800000   1.700000   0.300000 ---->	this is 3 class
+No:20	 sample is 5.100000    3.800000   1.500000   0.300000 ---->	this is 3 class
+No:21	 sample is 5.400000    3.400000   1.700000   0.200000 ---->	this is 3 class
+No:22	 sample is 5.100000    3.700000   1.500000   0.400000 ---->	this is 3 class
+No:23	 sample is 4.600000    3.600000   1.000000   0.200000 ---->	this is 3 class
+No:24	 sample is 5.100000    3.300000   1.700000   0.500000 ---->	this is 3 class
+No:25	 sample is 4.800000    3.400000   1.900000   0.200000 ---->	this is 3 class
+No:26	 sample is 5.000000    3.000000   1.600000   0.200000 ---->	this is 3 class
+No:27	 sample is 5.000000    3.400000   1.600000   0.400000 ---->	this is 3 class
+No:28	 sample is 5.200000    3.500000   1.500000   0.200000 ---->	this is 3 class
+No:29	 sample is 5.200000    3.400000   1.400000   0.200000 ---->	this is 3 class
+No:30	 sample is 4.700000    3.200000   1.600000   0.200000 ---->	this is 3 class
+No:31	 sample is 4.800000    3.100000   1.600000   0.200000 ---->	this is 3 class
+No:32	 sample is 5.400000    3.400000   1.500000   0.400000 ---->	this is 3 class
+No:33	 sample is 5.200000    4.100000   1.500000   0.100000 ---->	this is 3 class
+No:34	 sample is 5.500000    4.200000   1.400000   0.200000 ---->	this is 3 class
+No:35	 sample is 4.900000    3.100000   1.500000   0.100000 ---->	this is 3 class
+No:36	 sample is 5.000000    3.200000   1.200000   0.200000 ---->	this is 3 class
+No:37	 sample is 5.500000    3.500000   1.300000   0.200000 ---->	this is 3 class
+No:38	 sample is 4.900000    3.100000   1.500000   0.100000 ---->	this is 3 class
+No:39	 sample is 4.400000    3.000000   1.300000   0.200000 ---->	this is 3 class
+No:40	 sample is 5.100000    3.400000   1.500000   0.200000 ---->	this is 3 class
+No:41	 sample is 5.000000    3.500000   1.300000   0.300000 ---->	this is 3 class
+No:42	 sample is 4.500000    2.300000   1.300000   0.300000 ---->	this is 3 class
+No:43	 sample is 4.400000    3.200000   1.300000   0.200000 ---->	this is 3 class
+No:44	 sample is 5.000000    3.500000   1.600000   0.600000 ---->	this is 3 class
+No:45	 sample is 5.100000    3.800000   1.900000   0.400000 ---->	this is 3 class
+No:46	 sample is 4.800000    3.000000   1.400000   0.300000 ---->	this is 3 class
+No:47	 sample is 5.100000    3.800000   1.600000   0.200000 ---->	this is 3 class
+No:48	 sample is 4.600000    3.200000   1.400000   0.200000 ---->	this is 3 class
+No:49	 sample is 5.300000    3.700000   1.500000   0.200000 ---->	this is 3 class
+No:50	 sample is 5.000000    3.300000   1.400000   0.200000 ---->	this is 3 class
+No:51	 sample is 7.000000    3.200000   4.700000   1.400000 ---->	this is 1 class
+No:52	 sample is 6.400000    3.200000   4.500000   1.500000 ---->	this is 1 class
+No:53	 sample is 6.900000    3.100000   4.900000   1.500000 ---->	this is 1 class
+No:54	 sample is 5.500000    2.300000   4.000000   1.300000 ---->	this is 1 class
+No:55	 sample is 6.500000    2.800000   4.600000   1.500000 ---->	this is 1 class
+No:56	 sample is 5.700000    2.800000   4.500000   1.300000 ---->	this is 1 class
+No:57	 sample is 6.300000    3.300000   4.700000   1.600000 ---->	this is 1 class
+No:58	 sample is 4.900000    2.400000   3.300000   1.000000 ---->	this is 3 class
+No:59	 sample is 6.600000    2.900000   4.600000   1.300000 ---->	this is 1 class
+No:60	 sample is 5.200000    2.700000   3.900000   1.400000 ---->	this is 1 class
+No:61	 sample is 5.000000    2.000000   3.500000   1.000000 ---->	this is 1 class
+No:62	 sample is 5.900000    3.000000   4.200000   1.500000 ---->	this is 1 class
+No:63	 sample is 6.000000    2.200000   4.000000   1.000000 ---->	this is 1 class
+No:64	 sample is 6.100000    2.900000   4.700000   1.400000 ---->	this is 1 class
+No:65	 sample is 5.600000    2.900000   3.600000   1.300000 ---->	this is 1 class
+No:66	 sample is 6.700000    3.100000   4.400000   1.400000 ---->	this is 1 class
+No:67	 sample is 5.600000    3.000000   4.500000   1.500000 ---->	this is 1 class
+No:68	 sample is 5.800000    2.700000   4.100000   1.000000 ---->	this is 1 class
+No:69	 sample is 6.200000    2.200000   4.500000   1.500000 ---->	this is 1 class
+No:70	 sample is 5.600000    2.500000   3.900000   1.100000 ---->	this is 1 class
+No:71	 sample is 5.900000    3.200000   4.800000   1.800000 ---->	this is 1 class
+No:72	 sample is 6.100000    2.800000   4.000000   1.300000 ---->	this is 1 class
+No:73	 sample is 6.300000    2.500000   4.900000   1.500000 ---->	this is 1 class
+No:74	 sample is 6.100000    2.800000   4.700000   1.200000 ---->	this is 1 class
+No:75	 sample is 6.400000    2.900000   4.300000   1.300000 ---->	this is 1 class
+No:76	 sample is 6.600000    3.000000   4.400000   1.400000 ---->	this is 1 class
+No:77	 sample is 6.800000    2.800000   4.800000   1.400000 ---->	this is 1 class
+No:78	 sample is 6.700000    3.000000   5.000000   1.700000 ---->	this is 1 class
+No:79	 sample is 6.000000    2.900000   4.500000   1.500000 ---->	this is 1 class
+No:80	 sample is 5.700000    2.600000   3.500000   1.000000 ---->	this is 1 class
+No:81	 sample is 5.500000    2.400000   3.800000   1.100000 ---->	this is 1 class
+No:82	 sample is 5.500000    2.400000   3.700000   1.000000 ---->	this is 1 class
+No:83	 sample is 5.800000    2.700000   3.900000   1.200000 ---->	this is 1 class
+No:84	 sample is 6.000000    2.700000   5.100000   1.600000 ---->	this is 1 class
+No:85	 sample is 5.400000    3.000000   4.500000   1.500000 ---->	this is 1 class
+No:86	 sample is 6.000000    3.400000   4.500000   1.600000 ---->	this is 1 class
+No:87	 sample is 6.700000    3.100000   4.700000   1.500000 ---->	this is 1 class
+No:88	 sample is 6.300000    2.300000   4.400000   1.300000 ---->	this is 1 class
+No:89	 sample is 5.600000    3.000000   4.100000   1.300000 ---->	this is 1 class
+No:90	 sample is 5.500000    2.500000   4.000000   1.300000 ---->	this is 1 class
+No:91	 sample is 5.500000    2.600000   4.400000   1.200000 ---->	this is 1 class
+No:92	 sample is 6.100000    3.000000   4.600000   1.400000 ---->	this is 1 class
+No:93	 sample is 5.800000    2.600000   4.000000   1.200000 ---->	this is 1 class
+No:94	 sample is 5.000000    2.300000   3.300000   1.000000 ---->	this is 1 class
+No:95	 sample is 5.600000    2.700000   4.200000   1.300000 ---->	this is 1 class
+No:96	 sample is 5.700000    3.000000   4.200000   1.200000 ---->	this is 1 class
+No:97	 sample is 5.700000    2.900000   4.200000   1.300000 ---->	this is 1 class
+No:98	 sample is 6.200000    2.900000   4.300000   1.300000 ---->	this is 1 class
+No:99	 sample is 5.100000    2.500000   3.000000   1.100000 ---->	this is 3 class
+No:100	 sample is 5.700000    2.800000   4.100000   1.300000 ---->	this is 1 class
+No:101	 sample is 6.300000    3.300000   6.000000   2.500000 ---->	this is 2 class
+No:102	 sample is 5.800000    2.700000   5.100000   1.900000 ---->	this is 1 class
+No:103	 sample is 7.100000    3.000000   5.900000   2.100000 ---->	this is 2 class
+No:104	 sample is 6.300000    2.900000   5.600000   1.800000 ---->	this is 2 class
+No:105	 sample is 6.500000    3.000000   5.800000   2.200000 ---->	this is 2 class
+No:106	 sample is 7.600000    3.000000   6.600000   2.100000 ---->	this is 2 class
+No:107	 sample is 4.900000    2.500000   4.500000   1.700000 ---->	this is 1 class
+No:108	 sample is 7.300000    2.900000   6.300000   1.800000 ---->	this is 2 class
+No:109	 sample is 6.700000    2.500000   5.800000   1.800000 ---->	this is 2 class
+No:110	 sample is 7.200000    3.600000   6.100000   2.500000 ---->	this is 2 class
+No:111	 sample is 6.500000    3.200000   5.100000   2.000000 ---->	this is 2 class
+No:112	 sample is 6.400000    2.700000   5.300000   1.900000 ---->	this is 1 class
+No:113	 sample is 6.800000    3.000000   5.500000   2.100000 ---->	this is 2 class
+No:114	 sample is 5.700000    2.500000   5.000000   2.000000 ---->	this is 1 class
+No:115	 sample is 5.800000    2.800000   5.100000   2.400000 ---->	this is 1 class
+No:116	 sample is 6.400000    3.200000   5.300000   2.300000 ---->	this is 2 class
+No:117	 sample is 6.500000    3.000000   5.500000   1.800000 ---->	this is 2 class
+No:118	 sample is 7.700000    3.800000   6.700000   2.200000 ---->	this is 2 class
+No:119	 sample is 7.700000    2.600000   6.900000   2.300000 ---->	this is 2 class
+No:120	 sample is 6.000000    2.200000   5.000000   1.500000 ---->	this is 1 class
+No:121	 sample is 6.900000    3.200000   5.700000   2.300000 ---->	this is 2 class
+No:122	 sample is 5.600000    2.800000   4.900000   2.000000 ---->	this is 1 class
+No:123	 sample is 7.700000    2.800000   6.700000   2.000000 ---->	this is 2 class
+No:124	 sample is 6.300000    2.700000   4.900000   1.800000 ---->	this is 1 class
+No:125	 sample is 6.700000    3.300000   5.700000   2.100000 ---->	this is 2 class
+No:126	 sample is 7.200000    3.200000   6.000000   1.800000 ---->	this is 2 class
+No:127	 sample is 6.200000    2.800000   4.800000   1.800000 ---->	this is 1 class
+No:128	 sample is 6.100000    3.000000   4.900000   1.800000 ---->	this is 1 class
+No:129	 sample is 6.400000    2.800000   5.600000   2.100000 ---->	this is 2 class
+No:130	 sample is 7.200000    3.000000   5.800000   1.600000 ---->	this is 2 class
+No:131	 sample is 7.400000    2.800000   6.100000   1.900000 ---->	this is 2 class
+No:132	 sample is 7.900000    3.800000   6.400000   2.000000 ---->	this is 2 class
+No:133	 sample is 6.400000    2.800000   5.600000   2.200000 ---->	this is 2 class
+No:134	 sample is 6.300000    2.800000   5.100000   1.500000 ---->	this is 1 class
+No:135	 sample is 6.100000    2.600000   5.600000   1.400000 ---->	this is 1 class
+No:136	 sample is 7.700000    3.000000   6.100000   2.300000 ---->	this is 2 class
+No:137	 sample is 6.300000    3.400000   5.600000   2.400000 ---->	this is 2 class
+No:138	 sample is 6.400000    3.100000   5.500000   1.800000 ---->	this is 2 class
+No:139	 sample is 6.000000    3.000000   4.800000   1.800000 ---->	this is 1 class
+No:140	 sample is 6.900000    3.100000   5.400000   2.100000 ---->	this is 2 class
+No:141	 sample is 6.700000    3.100000   5.600000   2.400000 ---->	this is 2 class
+No:142	 sample is 6.900000    3.100000   5.100000   2.300000 ---->	this is 2 class
+No:143	 sample is 5.800000    2.700000   5.100000   1.900000 ---->	this is 1 class
+No:144	 sample is 6.800000    3.200000   5.900000   2.300000 ---->	this is 2 class
+No:145	 sample is 6.700000    3.300000   5.700000   2.500000 ---->	this is 2 class
+No:146	 sample is 6.700000    3.000000   5.200000   2.300000 ---->	this is 2 class
+No:147	 sample is 6.300000    2.500000   5.000000   1.900000 ---->	this is 1 class
+No:148	 sample is 6.500000    3.000000   5.200000   2.000000 ---->	this is 2 class
+No:149	 sample is 6.200000    3.400000   5.400000   2.300000 ---->	this is 2 class
+No:150	 sample is 5.900000    3.000000   5.100000   1.800000 ---->	this is 1 class
+target 1 is 6.009470    2.819771   5.068473   1.820529
+target 2 is 6.406676    3.228356   5.357221   2.236506
+target 3 is 5.030792    2.704142   2.686555   0.852414
+ 3 times iteration
+No:1	 sample is 5.100000    3.500000   1.400000   0.200000 ---->	this is 3 class
+No:2	 sample is 4.900000    3.000000   1.400000   0.200000 ---->	this is 3 class
+No:3	 sample is 4.700000    3.200000   1.300000   0.200000 ---->	this is 3 class
+No:4	 sample is 4.600000    3.100000   1.500000   0.200000 ---->	this is 3 class
+No:5	 sample is 5.000000    3.600000   1.400000   0.200000 ---->	this is 3 class
+No:6	 sample is 5.400000    3.900000   1.700000   0.400000 ---->	this is 3 class
+No:7	 sample is 4.600000    3.400000   1.400000   0.300000 ---->	this is 3 class
+No:8	 sample is 5.000000    3.400000   1.500000   0.200000 ---->	this is 3 class
+No:9	 sample is 4.400000    2.900000   1.400000   0.200000 ---->	this is 3 class
+No:10	 sample is 4.900000    3.100000   1.500000   0.100000 ---->	this is 3 class
+No:11	 sample is 5.400000    3.700000   1.500000   0.200000 ---->	this is 3 class
+No:12	 sample is 4.800000    3.400000   1.600000   0.200000 ---->	this is 3 class
+No:13	 sample is 4.800000    3.000000   1.400000   0.100000 ---->	this is 3 class
+No:14	 sample is 4.300000    3.000000   1.100000   0.100000 ---->	this is 3 class
+No:15	 sample is 5.800000    4.000000   1.200000   0.200000 ---->	this is 3 class
+No:16	 sample is 5.700000    4.400000   1.500000   0.400000 ---->	this is 3 class
+No:17	 sample is 5.400000    3.900000   1.300000   0.400000 ---->	this is 3 class
+No:18	 sample is 5.100000    3.500000   1.400000   0.300000 ---->	this is 3 class
+No:19	 sample is 5.700000    3.800000   1.700000   0.300000 ---->	this is 3 class
+No:20	 sample is 5.100000    3.800000   1.500000   0.300000 ---->	this is 3 class
+No:21	 sample is 5.400000    3.400000   1.700000   0.200000 ---->	this is 3 class
+No:22	 sample is 5.100000    3.700000   1.500000   0.400000 ---->	this is 3 class
+No:23	 sample is 4.600000    3.600000   1.000000   0.200000 ---->	this is 3 class
+No:24	 sample is 5.100000    3.300000   1.700000   0.500000 ---->	this is 3 class
+No:25	 sample is 4.800000    3.400000   1.900000   0.200000 ---->	this is 3 class
+No:26	 sample is 5.000000    3.000000   1.600000   0.200000 ---->	this is 3 class
+No:27	 sample is 5.000000    3.400000   1.600000   0.400000 ---->	this is 3 class
+No:28	 sample is 5.200000    3.500000   1.500000   0.200000 ---->	this is 3 class
+No:29	 sample is 5.200000    3.400000   1.400000   0.200000 ---->	this is 3 class
+No:30	 sample is 4.700000    3.200000   1.600000   0.200000 ---->	this is 3 class
+No:31	 sample is 4.800000    3.100000   1.600000   0.200000 ---->	this is 3 class
+No:32	 sample is 5.400000    3.400000   1.500000   0.400000 ---->	this is 3 class
+No:33	 sample is 5.200000    4.100000   1.500000   0.100000 ---->	this is 3 class
+No:34	 sample is 5.500000    4.200000   1.400000   0.200000 ---->	this is 3 class
+No:35	 sample is 4.900000    3.100000   1.500000   0.100000 ---->	this is 3 class
+No:36	 sample is 5.000000    3.200000   1.200000   0.200000 ---->	this is 3 class
+No:37	 sample is 5.500000    3.500000   1.300000   0.200000 ---->	this is 3 class
+No:38	 sample is 4.900000    3.100000   1.500000   0.100000 ---->	this is 3 class
+No:39	 sample is 4.400000    3.000000   1.300000   0.200000 ---->	this is 3 class
+No:40	 sample is 5.100000    3.400000   1.500000   0.200000 ---->	this is 3 class
+No:41	 sample is 5.000000    3.500000   1.300000   0.300000 ---->	this is 3 class
+No:42	 sample is 4.500000    2.300000   1.300000   0.300000 ---->	this is 3 class
+No:43	 sample is 4.400000    3.200000   1.300000   0.200000 ---->	this is 3 class
+No:44	 sample is 5.000000    3.500000   1.600000   0.600000 ---->	this is 3 class
+No:45	 sample is 5.100000    3.800000   1.900000   0.400000 ---->	this is 3 class
+No:46	 sample is 4.800000    3.000000   1.400000   0.300000 ---->	this is 3 class
+No:47	 sample is 5.100000    3.800000   1.600000   0.200000 ---->	this is 3 class
+No:48	 sample is 4.600000    3.200000   1.400000   0.200000 ---->	this is 3 class
+No:49	 sample is 5.300000    3.700000   1.500000   0.200000 ---->	this is 3 class
+No:50	 sample is 5.000000    3.300000   1.400000   0.200000 ---->	this is 3 class
+No:51	 sample is 7.000000    3.200000   4.700000   1.400000 ---->	this is 1 class
+No:52	 sample is 6.400000    3.200000   4.500000   1.500000 ---->	this is 1 class
+No:53	 sample is 6.900000    3.100000   4.900000   1.500000 ---->	this is 1 class
+No:54	 sample is 5.500000    2.300000   4.000000   1.300000 ---->	this is 1 class
+No:55	 sample is 6.500000    2.800000   4.600000   1.500000 ---->	this is 1 class
+No:56	 sample is 5.700000    2.800000   4.500000   1.300000 ---->	this is 1 class
+No:57	 sample is 6.300000    3.300000   4.700000   1.600000 ---->	this is 1 class
+No:58	 sample is 4.900000    2.400000   3.300000   1.000000 ---->	this is 3 class
+No:59	 sample is 6.600000    2.900000   4.600000   1.300000 ---->	this is 1 class
+No:60	 sample is 5.200000    2.700000   3.900000   1.400000 ---->	this is 3 class
+No:61	 sample is 5.000000    2.000000   3.500000   1.000000 ---->	this is 3 class
+No:62	 sample is 5.900000    3.000000   4.200000   1.500000 ---->	this is 1 class
+No:63	 sample is 6.000000    2.200000   4.000000   1.000000 ---->	this is 1 class
+No:64	 sample is 6.100000    2.900000   4.700000   1.400000 ---->	this is 1 class
+No:65	 sample is 5.600000    2.900000   3.600000   1.300000 ---->	this is 3 class
+No:66	 sample is 6.700000    3.100000   4.400000   1.400000 ---->	this is 1 class
+No:67	 sample is 5.600000    3.000000   4.500000   1.500000 ---->	this is 1 class
+No:68	 sample is 5.800000    2.700000   4.100000   1.000000 ---->	this is 1 class
+No:69	 sample is 6.200000    2.200000   4.500000   1.500000 ---->	this is 1 class
+No:70	 sample is 5.600000    2.500000   3.900000   1.100000 ---->	this is 3 class
+No:71	 sample is 5.900000    3.200000   4.800000   1.800000 ---->	this is 1 class
+No:72	 sample is 6.100000    2.800000   4.000000   1.300000 ---->	this is 1 class
+No:73	 sample is 6.300000    2.500000   4.900000   1.500000 ---->	this is 1 class
+No:74	 sample is 6.100000    2.800000   4.700000   1.200000 ---->	this is 1 class
+No:75	 sample is 6.400000    2.900000   4.300000   1.300000 ---->	this is 1 class
+No:76	 sample is 6.600000    3.000000   4.400000   1.400000 ---->	this is 1 class
+No:77	 sample is 6.800000    2.800000   4.800000   1.400000 ---->	this is 1 class
+No:78	 sample is 6.700000    3.000000   5.000000   1.700000 ---->	this is 1 class
+No:79	 sample is 6.000000    2.900000   4.500000   1.500000 ---->	this is 1 class
+No:80	 sample is 5.700000    2.600000   3.500000   1.000000 ---->	this is 3 class
+No:81	 sample is 5.500000    2.400000   3.800000   1.100000 ---->	this is 3 class
+No:82	 sample is 5.500000    2.400000   3.700000   1.000000 ---->	this is 3 class
+No:83	 sample is 5.800000    2.700000   3.900000   1.200000 ---->	this is 1 class
+No:84	 sample is 6.000000    2.700000   5.100000   1.600000 ---->	this is 1 class
+No:85	 sample is 5.400000    3.000000   4.500000   1.500000 ---->	this is 1 class
+No:86	 sample is 6.000000    3.400000   4.500000   1.600000 ---->	this is 1 class
+No:87	 sample is 6.700000    3.100000   4.700000   1.500000 ---->	this is 1 class
+No:88	 sample is 6.300000    2.300000   4.400000   1.300000 ---->	this is 1 class
+No:89	 sample is 5.600000    3.000000   4.100000   1.300000 ---->	this is 1 class
+No:90	 sample is 5.500000    2.500000   4.000000   1.300000 ---->	this is 1 class
+No:91	 sample is 5.500000    2.600000   4.400000   1.200000 ---->	this is 1 class
+No:92	 sample is 6.100000    3.000000   4.600000   1.400000 ---->	this is 1 class
+No:93	 sample is 5.800000    2.600000   4.000000   1.200000 ---->	this is 1 class
+No:94	 sample is 5.000000    2.300000   3.300000   1.000000 ---->	this is 3 class
+No:95	 sample is 5.600000    2.700000   4.200000   1.300000 ---->	this is 1 class
+No:96	 sample is 5.700000    3.000000   4.200000   1.200000 ---->	this is 1 class
+No:97	 sample is 5.700000    2.900000   4.200000   1.300000 ---->	this is 1 class
+No:98	 sample is 6.200000    2.900000   4.300000   1.300000 ---->	this is 1 class
+No:99	 sample is 5.100000    2.500000   3.000000   1.100000 ---->	this is 3 class
+No:100	 sample is 5.700000    2.800000   4.100000   1.300000 ---->	this is 1 class
+No:101	 sample is 6.300000    3.300000   6.000000   2.500000 ---->	this is 2 class
+No:102	 sample is 5.800000    2.700000   5.100000   1.900000 ---->	this is 1 class
+No:103	 sample is 7.100000    3.000000   5.900000   2.100000 ---->	this is 2 class
+No:104	 sample is 6.300000    2.900000   5.600000   1.800000 ---->	this is 2 class
+No:105	 sample is 6.500000    3.000000   5.800000   2.200000 ---->	this is 2 class
+No:106	 sample is 7.600000    3.000000   6.600000   2.100000 ---->	this is 2 class
+No:107	 sample is 4.900000    2.500000   4.500000   1.700000 ---->	this is 1 class
+No:108	 sample is 7.300000    2.900000   6.300000   1.800000 ---->	this is 2 class
+No:109	 sample is 6.700000    2.500000   5.800000   1.800000 ---->	this is 2 class
+No:110	 sample is 7.200000    3.600000   6.100000   2.500000 ---->	this is 2 class
+No:111	 sample is 6.500000    3.200000   5.100000   2.000000 ---->	this is 2 class
+No:112	 sample is 6.400000    2.700000   5.300000   1.900000 ---->	this is 1 class
+No:113	 sample is 6.800000    3.000000   5.500000   2.100000 ---->	this is 2 class
+No:114	 sample is 5.700000    2.500000   5.000000   2.000000 ---->	this is 1 class
+No:115	 sample is 5.800000    2.800000   5.100000   2.400000 ---->	this is 1 class
+No:116	 sample is 6.400000    3.200000   5.300000   2.300000 ---->	this is 2 class
+No:117	 sample is 6.500000    3.000000   5.500000   1.800000 ---->	this is 2 class
+No:118	 sample is 7.700000    3.800000   6.700000   2.200000 ---->	this is 2 class
+No:119	 sample is 7.700000    2.600000   6.900000   2.300000 ---->	this is 2 class
+No:120	 sample is 6.000000    2.200000   5.000000   1.500000 ---->	this is 1 class
+No:121	 sample is 6.900000    3.200000   5.700000   2.300000 ---->	this is 2 class
+No:122	 sample is 5.600000    2.800000   4.900000   2.000000 ---->	this is 1 class
+No:123	 sample is 7.700000    2.800000   6.700000   2.000000 ---->	this is 2 class
+No:124	 sample is 6.300000    2.700000   4.900000   1.800000 ---->	this is 1 class
+No:125	 sample is 6.700000    3.300000   5.700000   2.100000 ---->	this is 2 class
+No:126	 sample is 7.200000    3.200000   6.000000   1.800000 ---->	this is 2 class
+No:127	 sample is 6.200000    2.800000   4.800000   1.800000 ---->	this is 1 class
+No:128	 sample is 6.100000    3.000000   4.900000   1.800000 ---->	this is 1 class
+No:129	 sample is 6.400000    2.800000   5.600000   2.100000 ---->	this is 2 class
+No:130	 sample is 7.200000    3.000000   5.800000   1.600000 ---->	this is 2 class
+No:131	 sample is 7.400000    2.800000   6.100000   1.900000 ---->	this is 2 class
+No:132	 sample is 7.900000    3.800000   6.400000   2.000000 ---->	this is 2 class
+No:133	 sample is 6.400000    2.800000   5.600000   2.200000 ---->	this is 2 class
+No:134	 sample is 6.300000    2.800000   5.100000   1.500000 ---->	this is 1 class
+No:135	 sample is 6.100000    2.600000   5.600000   1.400000 ---->	this is 1 class
+No:136	 sample is 7.700000    3.000000   6.100000   2.300000 ---->	this is 2 class
+No:137	 sample is 6.300000    3.400000   5.600000   2.400000 ---->	this is 2 class
+No:138	 sample is 6.400000    3.100000   5.500000   1.800000 ---->	this is 2 class
+No:139	 sample is 6.000000    3.000000   4.800000   1.800000 ---->	this is 1 class
+No:140	 sample is 6.900000    3.100000   5.400000   2.100000 ---->	this is 2 class
+No:141	 sample is 6.700000    3.100000   5.600000   2.400000 ---->	this is 2 class
+No:142	 sample is 6.900000    3.100000   5.100000   2.300000 ---->	this is 2 class
+No:143	 sample is 5.800000    2.700000   5.100000   1.900000 ---->	this is 1 class
+No:144	 sample is 6.800000    3.200000   5.900000   2.300000 ---->	this is 2 class
+No:145	 sample is 6.700000    3.300000   5.700000   2.500000 ---->	this is 2 class
+No:146	 sample is 6.700000    3.000000   5.200000   2.300000 ---->	this is 2 class
+No:147	 sample is 6.300000    2.500000   5.000000   1.900000 ---->	this is 1 class
+No:148	 sample is 6.500000    3.000000   5.200000   2.000000 ---->	this is 2 class
+No:149	 sample is 6.200000    3.400000   5.400000   2.300000 ---->	this is 2 class
+No:150	 sample is 5.900000    3.000000   5.100000   1.800000 ---->	this is 1 class
+target 1 is 6.009470    2.819771   5.068473   1.820529
+target 2 is 6.406676    3.228356   5.357221   2.236506
+target 3 is 5.180003    2.436735   3.249362   1.060166
+ 4 times iteration
+No:1	 sample is 5.100000    3.500000   1.400000   0.200000 ---->	this is 3 class
+No:2	 sample is 4.900000    3.000000   1.400000   0.200000 ---->	this is 3 class
+No:3	 sample is 4.700000    3.200000   1.300000   0.200000 ---->	this is 3 class
+No:4	 sample is 4.600000    3.100000   1.500000   0.200000 ---->	this is 3 class
+No:5	 sample is 5.000000    3.600000   1.400000   0.200000 ---->	this is 3 class
+No:6	 sample is 5.400000    3.900000   1.700000   0.400000 ---->	this is 3 class
+No:7	 sample is 4.600000    3.400000   1.400000   0.300000 ---->	this is 3 class
+No:8	 sample is 5.000000    3.400000   1.500000   0.200000 ---->	this is 3 class
+No:9	 sample is 4.400000    2.900000   1.400000   0.200000 ---->	this is 3 class
+No:10	 sample is 4.900000    3.100000   1.500000   0.100000 ---->	this is 3 class
+No:11	 sample is 5.400000    3.700000   1.500000   0.200000 ---->	this is 3 class
+No:12	 sample is 4.800000    3.400000   1.600000   0.200000 ---->	this is 3 class
+No:13	 sample is 4.800000    3.000000   1.400000   0.100000 ---->	this is 3 class
+No:14	 sample is 4.300000    3.000000   1.100000   0.100000 ---->	this is 3 class
+No:15	 sample is 5.800000    4.000000   1.200000   0.200000 ---->	this is 3 class
+No:16	 sample is 5.700000    4.400000   1.500000   0.400000 ---->	this is 3 class
+No:17	 sample is 5.400000    3.900000   1.300000   0.400000 ---->	this is 3 class
+No:18	 sample is 5.100000    3.500000   1.400000   0.300000 ---->	this is 3 class
+No:19	 sample is 5.700000    3.800000   1.700000   0.300000 ---->	this is 3 class
+No:20	 sample is 5.100000    3.800000   1.500000   0.300000 ---->	this is 3 class
+No:21	 sample is 5.400000    3.400000   1.700000   0.200000 ---->	this is 3 class
+No:22	 sample is 5.100000    3.700000   1.500000   0.400000 ---->	this is 3 class
+No:23	 sample is 4.600000    3.600000   1.000000   0.200000 ---->	this is 3 class
+No:24	 sample is 5.100000    3.300000   1.700000   0.500000 ---->	this is 3 class
+No:25	 sample is 4.800000    3.400000   1.900000   0.200000 ---->	this is 3 class
+No:26	 sample is 5.000000    3.000000   1.600000   0.200000 ---->	this is 3 class
+No:27	 sample is 5.000000    3.400000   1.600000   0.400000 ---->	this is 3 class
+No:28	 sample is 5.200000    3.500000   1.500000   0.200000 ---->	this is 3 class
+No:29	 sample is 5.200000    3.400000   1.400000   0.200000 ---->	this is 3 class
+No:30	 sample is 4.700000    3.200000   1.600000   0.200000 ---->	this is 3 class
+No:31	 sample is 4.800000    3.100000   1.600000   0.200000 ---->	this is 3 class
+No:32	 sample is 5.400000    3.400000   1.500000   0.400000 ---->	this is 3 class
+No:33	 sample is 5.200000    4.100000   1.500000   0.100000 ---->	this is 3 class
+No:34	 sample is 5.500000    4.200000   1.400000   0.200000 ---->	this is 3 class
+No:35	 sample is 4.900000    3.100000   1.500000   0.100000 ---->	this is 3 class
+No:36	 sample is 5.000000    3.200000   1.200000   0.200000 ---->	this is 3 class
+No:37	 sample is 5.500000    3.500000   1.300000   0.200000 ---->	this is 3 class
+No:38	 sample is 4.900000    3.100000   1.500000   0.100000 ---->	this is 3 class
+No:39	 sample is 4.400000    3.000000   1.300000   0.200000 ---->	this is 3 class
+No:40	 sample is 5.100000    3.400000   1.500000   0.200000 ---->	this is 3 class
+No:41	 sample is 5.000000    3.500000   1.300000   0.300000 ---->	this is 3 class
+No:42	 sample is 4.500000    2.300000   1.300000   0.300000 ---->	this is 3 class
+No:43	 sample is 4.400000    3.200000   1.300000   0.200000 ---->	this is 3 class
+No:44	 sample is 5.000000    3.500000   1.600000   0.600000 ---->	this is 3 class
+No:45	 sample is 5.100000    3.800000   1.900000   0.400000 ---->	this is 3 class
+No:46	 sample is 4.800000    3.000000   1.400000   0.300000 ---->	this is 3 class
+No:47	 sample is 5.100000    3.800000   1.600000   0.200000 ---->	this is 3 class
+No:48	 sample is 4.600000    3.200000   1.400000   0.200000 ---->	this is 3 class
+No:49	 sample is 5.300000    3.700000   1.500000   0.200000 ---->	this is 3 class
+No:50	 sample is 5.000000    3.300000   1.400000   0.200000 ---->	this is 3 class
+No:51	 sample is 7.000000    3.200000   4.700000   1.400000 ---->	this is 1 class
+No:52	 sample is 6.400000    3.200000   4.500000   1.500000 ---->	this is 1 class
+No:53	 sample is 6.900000    3.100000   4.900000   1.500000 ---->	this is 1 class
+No:54	 sample is 5.500000    2.300000   4.000000   1.300000 ---->	this is 3 class
+No:55	 sample is 6.500000    2.800000   4.600000   1.500000 ---->	this is 1 class
+No:56	 sample is 5.700000    2.800000   4.500000   1.300000 ---->	this is 1 class
+No:57	 sample is 6.300000    3.300000   4.700000   1.600000 ---->	this is 1 class
+No:58	 sample is 4.900000    2.400000   3.300000   1.000000 ---->	this is 3 class
+No:59	 sample is 6.600000    2.900000   4.600000   1.300000 ---->	this is 1 class
+No:60	 sample is 5.200000    2.700000   3.900000   1.400000 ---->	this is 3 class
+No:61	 sample is 5.000000    2.000000   3.500000   1.000000 ---->	this is 3 class
+No:62	 sample is 5.900000    3.000000   4.200000   1.500000 ---->	this is 1 class
+No:63	 sample is 6.000000    2.200000   4.000000   1.000000 ---->	this is 3 class
+No:64	 sample is 6.100000    2.900000   4.700000   1.400000 ---->	this is 1 class
+No:65	 sample is 5.600000    2.900000   3.600000   1.300000 ---->	this is 3 class
+No:66	 sample is 6.700000    3.100000   4.400000   1.400000 ---->	this is 1 class
+No:67	 sample is 5.600000    3.000000   4.500000   1.500000 ---->	this is 1 class
+No:68	 sample is 5.800000    2.700000   4.100000   1.000000 ---->	this is 3 class
+No:69	 sample is 6.200000    2.200000   4.500000   1.500000 ---->	this is 1 class
+No:70	 sample is 5.600000    2.500000   3.900000   1.100000 ---->	this is 3 class
+No:71	 sample is 5.900000    3.200000   4.800000   1.800000 ---->	this is 1 class
+No:72	 sample is 6.100000    2.800000   4.000000   1.300000 ---->	this is 1 class
+No:73	 sample is 6.300000    2.500000   4.900000   1.500000 ---->	this is 1 class
+No:74	 sample is 6.100000    2.800000   4.700000   1.200000 ---->	this is 1 class
+No:75	 sample is 6.400000    2.900000   4.300000   1.300000 ---->	this is 1 class
+No:76	 sample is 6.600000    3.000000   4.400000   1.400000 ---->	this is 1 class
+No:77	 sample is 6.800000    2.800000   4.800000   1.400000 ---->	this is 1 class
+No:78	 sample is 6.700000    3.000000   5.000000   1.700000 ---->	this is 1 class
+No:79	 sample is 6.000000    2.900000   4.500000   1.500000 ---->	this is 1 class
+No:80	 sample is 5.700000    2.600000   3.500000   1.000000 ---->	this is 3 class
+No:81	 sample is 5.500000    2.400000   3.800000   1.100000 ---->	this is 3 class
+No:82	 sample is 5.500000    2.400000   3.700000   1.000000 ---->	this is 3 class
+No:83	 sample is 5.800000    2.700000   3.900000   1.200000 ---->	this is 3 class
+No:84	 sample is 6.000000    2.700000   5.100000   1.600000 ---->	this is 1 class
+No:85	 sample is 5.400000    3.000000   4.500000   1.500000 ---->	this is 1 class
+No:86	 sample is 6.000000    3.400000   4.500000   1.600000 ---->	this is 1 class
+No:87	 sample is 6.700000    3.100000   4.700000   1.500000 ---->	this is 1 class
+No:88	 sample is 6.300000    2.300000   4.400000   1.300000 ---->	this is 1 class
+No:89	 sample is 5.600000    3.000000   4.100000   1.300000 ---->	this is 3 class
+No:90	 sample is 5.500000    2.500000   4.000000   1.300000 ---->	this is 3 class
+No:91	 sample is 5.500000    2.600000   4.400000   1.200000 ---->	this is 1 class
+No:92	 sample is 6.100000    3.000000   4.600000   1.400000 ---->	this is 1 class
+No:93	 sample is 5.800000    2.600000   4.000000   1.200000 ---->	this is 3 class
+No:94	 sample is 5.000000    2.300000   3.300000   1.000000 ---->	this is 3 class
+No:95	 sample is 5.600000    2.700000   4.200000   1.300000 ---->	this is 3 class
+No:96	 sample is 5.700000    3.000000   4.200000   1.200000 ---->	this is 1 class
+No:97	 sample is 5.700000    2.900000   4.200000   1.300000 ---->	this is 1 class
+No:98	 sample is 6.200000    2.900000   4.300000   1.300000 ---->	this is 1 class
+No:99	 sample is 5.100000    2.500000   3.000000   1.100000 ---->	this is 3 class
+No:100	 sample is 5.700000    2.800000   4.100000   1.300000 ---->	this is 3 class
+No:101	 sample is 6.300000    3.300000   6.000000   2.500000 ---->	this is 2 class
+No:102	 sample is 5.800000    2.700000   5.100000   1.900000 ---->	this is 1 class
+No:103	 sample is 7.100000    3.000000   5.900000   2.100000 ---->	this is 2 class
+No:104	 sample is 6.300000    2.900000   5.600000   1.800000 ---->	this is 2 class
+No:105	 sample is 6.500000    3.000000   5.800000   2.200000 ---->	this is 2 class
+No:106	 sample is 7.600000    3.000000   6.600000   2.100000 ---->	this is 2 class
+No:107	 sample is 4.900000    2.500000   4.500000   1.700000 ---->	this is 1 class
+No:108	 sample is 7.300000    2.900000   6.300000   1.800000 ---->	this is 2 class
+No:109	 sample is 6.700000    2.500000   5.800000   1.800000 ---->	this is 2 class
+No:110	 sample is 7.200000    3.600000   6.100000   2.500000 ---->	this is 2 class
+No:111	 sample is 6.500000    3.200000   5.100000   2.000000 ---->	this is 2 class
+No:112	 sample is 6.400000    2.700000   5.300000   1.900000 ---->	this is 1 class
+No:113	 sample is 6.800000    3.000000   5.500000   2.100000 ---->	this is 2 class
+No:114	 sample is 5.700000    2.500000   5.000000   2.000000 ---->	this is 1 class
+No:115	 sample is 5.800000    2.800000   5.100000   2.400000 ---->	this is 1 class
+No:116	 sample is 6.400000    3.200000   5.300000   2.300000 ---->	this is 2 class
+No:117	 sample is 6.500000    3.000000   5.500000   1.800000 ---->	this is 2 class
+No:118	 sample is 7.700000    3.800000   6.700000   2.200000 ---->	this is 2 class
+No:119	 sample is 7.700000    2.600000   6.900000   2.300000 ---->	this is 2 class
+No:120	 sample is 6.000000    2.200000   5.000000   1.500000 ---->	this is 1 class
+No:121	 sample is 6.900000    3.200000   5.700000   2.300000 ---->	this is 2 class
+No:122	 sample is 5.600000    2.800000   4.900000   2.000000 ---->	this is 1 class
+No:123	 sample is 7.700000    2.800000   6.700000   2.000000 ---->	this is 2 class
+No:124	 sample is 6.300000    2.700000   4.900000   1.800000 ---->	this is 1 class
+No:125	 sample is 6.700000    3.300000   5.700000   2.100000 ---->	this is 2 class
+No:126	 sample is 7.200000    3.200000   6.000000   1.800000 ---->	this is 2 class
+No:127	 sample is 6.200000    2.800000   4.800000   1.800000 ---->	this is 1 class
+No:128	 sample is 6.100000    3.000000   4.900000   1.800000 ---->	this is 1 class
+No:129	 sample is 6.400000    2.800000   5.600000   2.100000 ---->	this is 2 class
+No:130	 sample is 7.200000    3.000000   5.800000   1.600000 ---->	this is 2 class
+No:131	 sample is 7.400000    2.800000   6.100000   1.900000 ---->	this is 2 class
+No:132	 sample is 7.900000    3.800000   6.400000   2.000000 ---->	this is 2 class
+No:133	 sample is 6.400000    2.800000   5.600000   2.200000 ---->	this is 2 class
+No:134	 sample is 6.300000    2.800000   5.100000   1.500000 ---->	this is 1 class
+No:135	 sample is 6.100000    2.600000   5.600000   1.400000 ---->	this is 1 class
+No:136	 sample is 7.700000    3.000000   6.100000   2.300000 ---->	this is 2 class
+No:137	 sample is 6.300000    3.400000   5.600000   2.400000 ---->	this is 2 class
+No:138	 sample is 6.400000    3.100000   5.500000   1.800000 ---->	this is 2 class
+No:139	 sample is 6.000000    3.000000   4.800000   1.800000 ---->	this is 1 class
+No:140	 sample is 6.900000    3.100000   5.400000   2.100000 ---->	this is 2 class
+No:141	 sample is 6.700000    3.100000   5.600000   2.400000 ---->	this is 2 class
+No:142	 sample is 6.900000    3.100000   5.100000   2.300000 ---->	this is 2 class
+No:143	 sample is 5.800000    2.700000   5.100000   1.900000 ---->	this is 1 class
+No:144	 sample is 6.800000    3.200000   5.900000   2.300000 ---->	this is 2 class
+No:145	 sample is 6.700000    3.300000   5.700000   2.500000 ---->	this is 2 class
+No:146	 sample is 6.700000    3.000000   5.200000   2.300000 ---->	this is 2 class
+No:147	 sample is 6.300000    2.500000   5.000000   1.900000 ---->	this is 1 class
+No:148	 sample is 6.500000    3.000000   5.200000   2.000000 ---->	this is 2 class
+No:149	 sample is 6.200000    3.400000   5.400000   2.300000 ---->	this is 2 class
+No:150	 sample is 5.900000    3.000000   5.100000   1.800000 ---->	this is 1 class
+target 1 is 6.009472    2.819772   5.068475   1.820529
+target 2 is 6.406676    3.228356   5.357221   2.236506
+target 3 is 5.492745    2.670103   3.780563   1.226705
+ 5 times iteration
+No:1	 sample is 5.100000    3.500000   1.400000   0.200000 ---->	this is 3 class
+No:2	 sample is 4.900000    3.000000   1.400000   0.200000 ---->	this is 3 class
+No:3	 sample is 4.700000    3.200000   1.300000   0.200000 ---->	this is 3 class
+No:4	 sample is 4.600000    3.100000   1.500000   0.200000 ---->	this is 3 class
+No:5	 sample is 5.000000    3.600000   1.400000   0.200000 ---->	this is 3 class
+No:6	 sample is 5.400000    3.900000   1.700000   0.400000 ---->	this is 3 class
+No:7	 sample is 4.600000    3.400000   1.400000   0.300000 ---->	this is 3 class
+No:8	 sample is 5.000000    3.400000   1.500000   0.200000 ---->	this is 3 class
+No:9	 sample is 4.400000    2.900000   1.400000   0.200000 ---->	this is 3 class
+No:10	 sample is 4.900000    3.100000   1.500000   0.100000 ---->	this is 3 class
+No:11	 sample is 5.400000    3.700000   1.500000   0.200000 ---->	this is 3 class
+No:12	 sample is 4.800000    3.400000   1.600000   0.200000 ---->	this is 3 class
+No:13	 sample is 4.800000    3.000000   1.400000   0.100000 ---->	this is 3 class
+No:14	 sample is 4.300000    3.000000   1.100000   0.100000 ---->	this is 3 class
+No:15	 sample is 5.800000    4.000000   1.200000   0.200000 ---->	this is 3 class
+No:16	 sample is 5.700000    4.400000   1.500000   0.400000 ---->	this is 3 class
+No:17	 sample is 5.400000    3.900000   1.300000   0.400000 ---->	this is 3 class
+No:18	 sample is 5.100000    3.500000   1.400000   0.300000 ---->	this is 3 class
+No:19	 sample is 5.700000    3.800000   1.700000   0.300000 ---->	this is 3 class
+No:20	 sample is 5.100000    3.800000   1.500000   0.300000 ---->	this is 3 class
+No:21	 sample is 5.400000    3.400000   1.700000   0.200000 ---->	this is 3 class
+No:22	 sample is 5.100000    3.700000   1.500000   0.400000 ---->	this is 3 class
+No:23	 sample is 4.600000    3.600000   1.000000   0.200000 ---->	this is 3 class
+No:24	 sample is 5.100000    3.300000   1.700000   0.500000 ---->	this is 3 class
+No:25	 sample is 4.800000    3.400000   1.900000   0.200000 ---->	this is 3 class
+No:26	 sample is 5.000000    3.000000   1.600000   0.200000 ---->	this is 3 class
+No:27	 sample is 5.000000    3.400000   1.600000   0.400000 ---->	this is 3 class
+No:28	 sample is 5.200000    3.500000   1.500000   0.200000 ---->	this is 3 class
+No:29	 sample is 5.200000    3.400000   1.400000   0.200000 ---->	this is 3 class
+No:30	 sample is 4.700000    3.200000   1.600000   0.200000 ---->	this is 3 class
+No:31	 sample is 4.800000    3.100000   1.600000   0.200000 ---->	this is 3 class
+No:32	 sample is 5.400000    3.400000   1.500000   0.400000 ---->	this is 3 class
+No:33	 sample is 5.200000    4.100000   1.500000   0.100000 ---->	this is 3 class
+No:34	 sample is 5.500000    4.200000   1.400000   0.200000 ---->	this is 3 class
+No:35	 sample is 4.900000    3.100000   1.500000   0.100000 ---->	this is 3 class
+No:36	 sample is 5.000000    3.200000   1.200000   0.200000 ---->	this is 3 class
+No:37	 sample is 5.500000    3.500000   1.300000   0.200000 ---->	this is 3 class
+No:38	 sample is 4.900000    3.100000   1.500000   0.100000 ---->	this is 3 class
+No:39	 sample is 4.400000    3.000000   1.300000   0.200000 ---->	this is 3 class
+No:40	 sample is 5.100000    3.400000   1.500000   0.200000 ---->	this is 3 class
+No:41	 sample is 5.000000    3.500000   1.300000   0.300000 ---->	this is 3 class
+No:42	 sample is 4.500000    2.300000   1.300000   0.300000 ---->	this is 3 class
+No:43	 sample is 4.400000    3.200000   1.300000   0.200000 ---->	this is 3 class
+No:44	 sample is 5.000000    3.500000   1.600000   0.600000 ---->	this is 3 class
+No:45	 sample is 5.100000    3.800000   1.900000   0.400000 ---->	this is 3 class
+No:46	 sample is 4.800000    3.000000   1.400000   0.300000 ---->	this is 3 class
+No:47	 sample is 5.100000    3.800000   1.600000   0.200000 ---->	this is 3 class
+No:48	 sample is 4.600000    3.200000   1.400000   0.200000 ---->	this is 3 class
+No:49	 sample is 5.300000    3.700000   1.500000   0.200000 ---->	this is 3 class
+No:50	 sample is 5.000000    3.300000   1.400000   0.200000 ---->	this is 3 class
+No:51	 sample is 7.000000    3.200000   4.700000   1.400000 ---->	this is 1 class
+No:52	 sample is 6.400000    3.200000   4.500000   1.500000 ---->	this is 1 class
+No:53	 sample is 6.900000    3.100000   4.900000   1.500000 ---->	this is 1 class
+No:54	 sample is 5.500000    2.300000   4.000000   1.300000 ---->	this is 3 class
+No:55	 sample is 6.500000    2.800000   4.600000   1.500000 ---->	this is 1 class
+No:56	 sample is 5.700000    2.800000   4.500000   1.300000 ---->	this is 3 class
+No:57	 sample is 6.300000    3.300000   4.700000   1.600000 ---->	this is 1 class
+No:58	 sample is 4.900000    2.400000   3.300000   1.000000 ---->	this is 3 class
+No:59	 sample is 6.600000    2.900000   4.600000   1.300000 ---->	this is 1 class
+No:60	 sample is 5.200000    2.700000   3.900000   1.400000 ---->	this is 3 class
+No:61	 sample is 5.000000    2.000000   3.500000   1.000000 ---->	this is 3 class
+No:62	 sample is 5.900000    3.000000   4.200000   1.500000 ---->	this is 3 class
+No:63	 sample is 6.000000    2.200000   4.000000   1.000000 ---->	this is 3 class
+No:64	 sample is 6.100000    2.900000   4.700000   1.400000 ---->	this is 1 class
+No:65	 sample is 5.600000    2.900000   3.600000   1.300000 ---->	this is 3 class
+No:66	 sample is 6.700000    3.100000   4.400000   1.400000 ---->	this is 1 class
+No:67	 sample is 5.600000    3.000000   4.500000   1.500000 ---->	this is 1 class
+No:68	 sample is 5.800000    2.700000   4.100000   1.000000 ---->	this is 3 class
+No:69	 sample is 6.200000    2.200000   4.500000   1.500000 ---->	this is 1 class
+No:70	 sample is 5.600000    2.500000   3.900000   1.100000 ---->	this is 3 class
+No:71	 sample is 5.900000    3.200000   4.800000   1.800000 ---->	this is 1 class
+No:72	 sample is 6.100000    2.800000   4.000000   1.300000 ---->	this is 3 class
+No:73	 sample is 6.300000    2.500000   4.900000   1.500000 ---->	this is 1 class
+No:74	 sample is 6.100000    2.800000   4.700000   1.200000 ---->	this is 1 class
+No:75	 sample is 6.400000    2.900000   4.300000   1.300000 ---->	this is 1 class
+No:76	 sample is 6.600000    3.000000   4.400000   1.400000 ---->	this is 1 class
+No:77	 sample is 6.800000    2.800000   4.800000   1.400000 ---->	this is 1 class
+No:78	 sample is 6.700000    3.000000   5.000000   1.700000 ---->	this is 1 class
+No:79	 sample is 6.000000    2.900000   4.500000   1.500000 ---->	this is 1 class
+No:80	 sample is 5.700000    2.600000   3.500000   1.000000 ---->	this is 3 class
+No:81	 sample is 5.500000    2.400000   3.800000   1.100000 ---->	this is 3 class
+No:82	 sample is 5.500000    2.400000   3.700000   1.000000 ---->	this is 3 class
+No:83	 sample is 5.800000    2.700000   3.900000   1.200000 ---->	this is 3 class
+No:84	 sample is 6.000000    2.700000   5.100000   1.600000 ---->	this is 1 class
+No:85	 sample is 5.400000    3.000000   4.500000   1.500000 ---->	this is 3 class
+No:86	 sample is 6.000000    3.400000   4.500000   1.600000 ---->	this is 1 class
+No:87	 sample is 6.700000    3.100000   4.700000   1.500000 ---->	this is 1 class
+No:88	 sample is 6.300000    2.300000   4.400000   1.300000 ---->	this is 1 class
+No:89	 sample is 5.600000    3.000000   4.100000   1.300000 ---->	this is 3 class
+No:90	 sample is 5.500000    2.500000   4.000000   1.300000 ---->	this is 3 class
+No:91	 sample is 5.500000    2.600000   4.400000   1.200000 ---->	this is 3 class
+No:92	 sample is 6.100000    3.000000   4.600000   1.400000 ---->	this is 1 class
+No:93	 sample is 5.800000    2.600000   4.000000   1.200000 ---->	this is 3 class
+No:94	 sample is 5.000000    2.300000   3.300000   1.000000 ---->	this is 3 class
+No:95	 sample is 5.600000    2.700000   4.200000   1.300000 ---->	this is 3 class
+No:96	 sample is 5.700000    3.000000   4.200000   1.200000 ---->	this is 3 class
+No:97	 sample is 5.700000    2.900000   4.200000   1.300000 ---->	this is 3 class
+No:98	 sample is 6.200000    2.900000   4.300000   1.300000 ---->	this is 3 class
+No:99	 sample is 5.100000    2.500000   3.000000   1.100000 ---->	this is 3 class
+No:100	 sample is 5.700000    2.800000   4.100000   1.300000 ---->	this is 3 class
+No:101	 sample is 6.300000    3.300000   6.000000   2.500000 ---->	this is 2 class
+No:102	 sample is 5.800000    2.700000   5.100000   1.900000 ---->	this is 1 class
+No:103	 sample is 7.100000    3.000000   5.900000   2.100000 ---->	this is 2 class
+No:104	 sample is 6.300000    2.900000   5.600000   1.800000 ---->	this is 2 class
+No:105	 sample is 6.500000    3.000000   5.800000   2.200000 ---->	this is 2 class
+No:106	 sample is 7.600000    3.000000   6.600000   2.100000 ---->	this is 2 class
+No:107	 sample is 4.900000    2.500000   4.500000   1.700000 ---->	this is 3 class
+No:108	 sample is 7.300000    2.900000   6.300000   1.800000 ---->	this is 2 class
+No:109	 sample is 6.700000    2.500000   5.800000   1.800000 ---->	this is 2 class
+No:110	 sample is 7.200000    3.600000   6.100000   2.500000 ---->	this is 2 class
+No:111	 sample is 6.500000    3.200000   5.100000   2.000000 ---->	this is 2 class
+No:112	 sample is 6.400000    2.700000   5.300000   1.900000 ---->	this is 1 class
+No:113	 sample is 6.800000    3.000000   5.500000   2.100000 ---->	this is 2 class
+No:114	 sample is 5.700000    2.500000   5.000000   2.000000 ---->	this is 1 class
+No:115	 sample is 5.800000    2.800000   5.100000   2.400000 ---->	this is 1 class
+No:116	 sample is 6.400000    3.200000   5.300000   2.300000 ---->	this is 2 class
+No:117	 sample is 6.500000    3.000000   5.500000   1.800000 ---->	this is 2 class
+No:118	 sample is 7.700000    3.800000   6.700000   2.200000 ---->	this is 2 class
+No:119	 sample is 7.700000    2.600000   6.900000   2.300000 ---->	this is 2 class
+No:120	 sample is 6.000000    2.200000   5.000000   1.500000 ---->	this is 1 class
+No:121	 sample is 6.900000    3.200000   5.700000   2.300000 ---->	this is 2 class
+No:122	 sample is 5.600000    2.800000   4.900000   2.000000 ---->	this is 1 class
+No:123	 sample is 7.700000    2.800000   6.700000   2.000000 ---->	this is 2 class
+No:124	 sample is 6.300000    2.700000   4.900000   1.800000 ---->	this is 1 class
+No:125	 sample is 6.700000    3.300000   5.700000   2.100000 ---->	this is 2 class
+No:126	 sample is 7.200000    3.200000   6.000000   1.800000 ---->	this is 2 class
+No:127	 sample is 6.200000    2.800000   4.800000   1.800000 ---->	this is 1 class
+No:128	 sample is 6.100000    3.000000   4.900000   1.800000 ---->	this is 1 class
+No:129	 sample is 6.400000    2.800000   5.600000   2.100000 ---->	this is 2 class
+No:130	 sample is 7.200000    3.000000   5.800000   1.600000 ---->	this is 2 class
+No:131	 sample is 7.400000    2.800000   6.100000   1.900000 ---->	this is 2 class
+No:132	 sample is 7.900000    3.800000   6.400000   2.000000 ---->	this is 2 class
+No:133	 sample is 6.400000    2.800000   5.600000   2.200000 ---->	this is 2 class
+No:134	 sample is 6.300000    2.800000   5.100000   1.500000 ---->	this is 1 class
+No:135	 sample is 6.100000    2.600000   5.600000   1.400000 ---->	this is 1 class
+No:136	 sample is 7.700000    3.000000   6.100000   2.300000 ---->	this is 2 class
+No:137	 sample is 6.300000    3.400000   5.600000   2.400000 ---->	this is 2 class
+No:138	 sample is 6.400000    3.100000   5.500000   1.800000 ---->	this is 2 class
+No:139	 sample is 6.000000    3.000000   4.800000   1.800000 ---->	this is 1 class
+No:140	 sample is 6.900000    3.100000   5.400000   2.100000 ---->	this is 2 class
+No:141	 sample is 6.700000    3.100000   5.600000   2.400000 ---->	this is 2 class
+No:142	 sample is 6.900000    3.100000   5.100000   2.300000 ---->	this is 2 class
+No:143	 sample is 5.800000    2.700000   5.100000   1.900000 ---->	this is 1 class
+No:144	 sample is 6.800000    3.200000   5.900000   2.300000 ---->	this is 2 class
+No:145	 sample is 6.700000    3.300000   5.700000   2.500000 ---->	this is 2 class
+No:146	 sample is 6.700000    3.000000   5.200000   2.300000 ---->	this is 2 class
+No:147	 sample is 6.300000    2.500000   5.000000   1.900000 ---->	this is 1 class
+No:148	 sample is 6.500000    3.000000   5.200000   2.000000 ---->	this is 2 class
+No:149	 sample is 6.200000    3.400000   5.400000   2.300000 ---->	this is 2 class
+No:150	 sample is 5.900000    3.000000   5.100000   1.800000 ---->	this is 1 class
+target 1 is 6.009510    2.819780   5.068490   1.820529
+target 2 is 6.406676    3.228356   5.357221   2.236506
+target 3 is 5.252574    2.621580   4.177407   1.471976
+ 6 times iteration
+No:1	 sample is 5.100000    3.500000   1.400000   0.200000 ---->	this is 3 class
+No:2	 sample is 4.900000    3.000000   1.400000   0.200000 ---->	this is 3 class
+No:3	 sample is 4.700000    3.200000   1.300000   0.200000 ---->	this is 3 class
+No:4	 sample is 4.600000    3.100000   1.500000   0.200000 ---->	this is 3 class
+No:5	 sample is 5.000000    3.600000   1.400000   0.200000 ---->	this is 3 class
+No:6	 sample is 5.400000    3.900000   1.700000   0.400000 ---->	this is 3 class
+No:7	 sample is 4.600000    3.400000   1.400000   0.300000 ---->	this is 3 class
+No:8	 sample is 5.000000    3.400000   1.500000   0.200000 ---->	this is 3 class
+No:9	 sample is 4.400000    2.900000   1.400000   0.200000 ---->	this is 3 class
+No:10	 sample is 4.900000    3.100000   1.500000   0.100000 ---->	this is 3 class
+No:11	 sample is 5.400000    3.700000   1.500000   0.200000 ---->	this is 3 class
+No:12	 sample is 4.800000    3.400000   1.600000   0.200000 ---->	this is 3 class
+No:13	 sample is 4.800000    3.000000   1.400000   0.100000 ---->	this is 3 class
+No:14	 sample is 4.300000    3.000000   1.100000   0.100000 ---->	this is 3 class
+No:15	 sample is 5.800000    4.000000   1.200000   0.200000 ---->	this is 3 class
+No:16	 sample is 5.700000    4.400000   1.500000   0.400000 ---->	this is 3 class
+No:17	 sample is 5.400000    3.900000   1.300000   0.400000 ---->	this is 3 class
+No:18	 sample is 5.100000    3.500000   1.400000   0.300000 ---->	this is 3 class
+No:19	 sample is 5.700000    3.800000   1.700000   0.300000 ---->	this is 3 class
+No:20	 sample is 5.100000    3.800000   1.500000   0.300000 ---->	this is 3 class
+No:21	 sample is 5.400000    3.400000   1.700000   0.200000 ---->	this is 3 class
+No:22	 sample is 5.100000    3.700000   1.500000   0.400000 ---->	this is 3 class
+No:23	 sample is 4.600000    3.600000   1.000000   0.200000 ---->	this is 3 class
+No:24	 sample is 5.100000    3.300000   1.700000   0.500000 ---->	this is 3 class
+No:25	 sample is 4.800000    3.400000   1.900000   0.200000 ---->	this is 3 class
+No:26	 sample is 5.000000    3.000000   1.600000   0.200000 ---->	this is 3 class
+No:27	 sample is 5.000000    3.400000   1.600000   0.400000 ---->	this is 3 class
+No:28	 sample is 5.200000    3.500000   1.500000   0.200000 ---->	this is 3 class
+No:29	 sample is 5.200000    3.400000   1.400000   0.200000 ---->	this is 3 class
+No:30	 sample is 4.700000    3.200000   1.600000   0.200000 ---->	this is 3 class
+No:31	 sample is 4.800000    3.100000   1.600000   0.200000 ---->	this is 3 class
+No:32	 sample is 5.400000    3.400000   1.500000   0.400000 ---->	this is 3 class
+No:33	 sample is 5.200000    4.100000   1.500000   0.100000 ---->	this is 3 class
+No:34	 sample is 5.500000    4.200000   1.400000   0.200000 ---->	this is 3 class
+No:35	 sample is 4.900000    3.100000   1.500000   0.100000 ---->	this is 3 class
+No:36	 sample is 5.000000    3.200000   1.200000   0.200000 ---->	this is 3 class
+No:37	 sample is 5.500000    3.500000   1.300000   0.200000 ---->	this is 3 class
+No:38	 sample is 4.900000    3.100000   1.500000   0.100000 ---->	this is 3 class
+No:39	 sample is 4.400000    3.000000   1.300000   0.200000 ---->	this is 3 class
+No:40	 sample is 5.100000    3.400000   1.500000   0.200000 ---->	this is 3 class
+No:41	 sample is 5.000000    3.500000   1.300000   0.300000 ---->	this is 3 class
+No:42	 sample is 4.500000    2.300000   1.300000   0.300000 ---->	this is 3 class
+No:43	 sample is 4.400000    3.200000   1.300000   0.200000 ---->	this is 3 class
+No:44	 sample is 5.000000    3.500000   1.600000   0.600000 ---->	this is 3 class
+No:45	 sample is 5.100000    3.800000   1.900000   0.400000 ---->	this is 3 class
+No:46	 sample is 4.800000    3.000000   1.400000   0.300000 ---->	this is 3 class
+No:47	 sample is 5.100000    3.800000   1.600000   0.200000 ---->	this is 3 class
+No:48	 sample is 4.600000    3.200000   1.400000   0.200000 ---->	this is 3 class
+No:49	 sample is 5.300000    3.700000   1.500000   0.200000 ---->	this is 3 class
+No:50	 sample is 5.000000    3.300000   1.400000   0.200000 ---->	this is 3 class
+No:51	 sample is 7.000000    3.200000   4.700000   1.400000 ---->	this is 1 class
+No:52	 sample is 6.400000    3.200000   4.500000   1.500000 ---->	this is 1 class
+No:53	 sample is 6.900000    3.100000   4.900000   1.500000 ---->	this is 1 class
+No:54	 sample is 5.500000    2.300000   4.000000   1.300000 ---->	this is 3 class
+No:55	 sample is 6.500000    2.800000   4.600000   1.500000 ---->	this is 1 class
+No:56	 sample is 5.700000    2.800000   4.500000   1.300000 ---->	this is 3 class
+No:57	 sample is 6.300000    3.300000   4.700000   1.600000 ---->	this is 1 class
+No:58	 sample is 4.900000    2.400000   3.300000   1.000000 ---->	this is 3 class
+No:59	 sample is 6.600000    2.900000   4.600000   1.300000 ---->	this is 1 class
+No:60	 sample is 5.200000    2.700000   3.900000   1.400000 ---->	this is 3 class
+No:61	 sample is 5.000000    2.000000   3.500000   1.000000 ---->	this is 3 class
+No:62	 sample is 5.900000    3.000000   4.200000   1.500000 ---->	this is 3 class
+No:63	 sample is 6.000000    2.200000   4.000000   1.000000 ---->	this is 3 class
+No:64	 sample is 6.100000    2.900000   4.700000   1.400000 ---->	this is 1 class
+No:65	 sample is 5.600000    2.900000   3.600000   1.300000 ---->	this is 3 class
+No:66	 sample is 6.700000    3.100000   4.400000   1.400000 ---->	this is 1 class
+No:67	 sample is 5.600000    3.000000   4.500000   1.500000 ---->	this is 3 class
+No:68	 sample is 5.800000    2.700000   4.100000   1.000000 ---->	this is 3 class
+No:69	 sample is 6.200000    2.200000   4.500000   1.500000 ---->	this is 1 class
+No:70	 sample is 5.600000    2.500000   3.900000   1.100000 ---->	this is 3 class
+No:71	 sample is 5.900000    3.200000   4.800000   1.800000 ---->	this is 1 class
+No:72	 sample is 6.100000    2.800000   4.000000   1.300000 ---->	this is 3 class
+No:73	 sample is 6.300000    2.500000   4.900000   1.500000 ---->	this is 1 class
+No:74	 sample is 6.100000    2.800000   4.700000   1.200000 ---->	this is 1 class
+No:75	 sample is 6.400000    2.900000   4.300000   1.300000 ---->	this is 1 class
+No:76	 sample is 6.600000    3.000000   4.400000   1.400000 ---->	this is 1 class
+No:77	 sample is 6.800000    2.800000   4.800000   1.400000 ---->	this is 1 class
+No:78	 sample is 6.700000    3.000000   5.000000   1.700000 ---->	this is 1 class
+No:79	 sample is 6.000000    2.900000   4.500000   1.500000 ---->	this is 1 class
+No:80	 sample is 5.700000    2.600000   3.500000   1.000000 ---->	this is 3 class
+No:81	 sample is 5.500000    2.400000   3.800000   1.100000 ---->	this is 3 class
+No:82	 sample is 5.500000    2.400000   3.700000   1.000000 ---->	this is 3 class
+No:83	 sample is 5.800000    2.700000   3.900000   1.200000 ---->	this is 3 class
+No:84	 sample is 6.000000    2.700000   5.100000   1.600000 ---->	this is 1 class
+No:85	 sample is 5.400000    3.000000   4.500000   1.500000 ---->	this is 3 class
+No:86	 sample is 6.000000    3.400000   4.500000   1.600000 ---->	this is 1 class
+No:87	 sample is 6.700000    3.100000   4.700000   1.500000 ---->	this is 1 class
+No:88	 sample is 6.300000    2.300000   4.400000   1.300000 ---->	this is 1 class
+No:89	 sample is 5.600000    3.000000   4.100000   1.300000 ---->	this is 3 class
+No:90	 sample is 5.500000    2.500000   4.000000   1.300000 ---->	this is 3 class
+No:91	 sample is 5.500000    2.600000   4.400000   1.200000 ---->	this is 3 class
+No:92	 sample is 6.100000    3.000000   4.600000   1.400000 ---->	this is 1 class
+No:93	 sample is 5.800000    2.600000   4.000000   1.200000 ---->	this is 3 class
+No:94	 sample is 5.000000    2.300000   3.300000   1.000000 ---->	this is 3 class
+No:95	 sample is 5.600000    2.700000   4.200000   1.300000 ---->	this is 3 class
+No:96	 sample is 5.700000    3.000000   4.200000   1.200000 ---->	this is 3 class
+No:97	 sample is 5.700000    2.900000   4.200000   1.300000 ---->	this is 3 class
+No:98	 sample is 6.200000    2.900000   4.300000   1.300000 ---->	this is 1 class
+No:99	 sample is 5.100000    2.500000   3.000000   1.100000 ---->	this is 3 class
+No:100	 sample is 5.700000    2.800000   4.100000   1.300000 ---->	this is 3 class
+No:101	 sample is 6.300000    3.300000   6.000000   2.500000 ---->	this is 2 class
+No:102	 sample is 5.800000    2.700000   5.100000   1.900000 ---->	this is 1 class
+No:103	 sample is 7.100000    3.000000   5.900000   2.100000 ---->	this is 2 class
+No:104	 sample is 6.300000    2.900000   5.600000   1.800000 ---->	this is 2 class
+No:105	 sample is 6.500000    3.000000   5.800000   2.200000 ---->	this is 2 class
+No:106	 sample is 7.600000    3.000000   6.600000   2.100000 ---->	this is 2 class
+No:107	 sample is 4.900000    2.500000   4.500000   1.700000 ---->	this is 3 class
+No:108	 sample is 7.300000    2.900000   6.300000   1.800000 ---->	this is 2 class
+No:109	 sample is 6.700000    2.500000   5.800000   1.800000 ---->	this is 2 class
+No:110	 sample is 7.200000    3.600000   6.100000   2.500000 ---->	this is 2 class
+No:111	 sample is 6.500000    3.200000   5.100000   2.000000 ---->	this is 2 class
+No:112	 sample is 6.400000    2.700000   5.300000   1.900000 ---->	this is 1 class
+No:113	 sample is 6.800000    3.000000   5.500000   2.100000 ---->	this is 2 class
+No:114	 sample is 5.700000    2.500000   5.000000   2.000000 ---->	this is 1 class
+No:115	 sample is 5.800000    2.800000   5.100000   2.400000 ---->	this is 1 class
+No:116	 sample is 6.400000    3.200000   5.300000   2.300000 ---->	this is 2 class
+No:117	 sample is 6.500000    3.000000   5.500000   1.800000 ---->	this is 2 class
+No:118	 sample is 7.700000    3.800000   6.700000   2.200000 ---->	this is 2 class
+No:119	 sample is 7.700000    2.600000   6.900000   2.300000 ---->	this is 2 class
+No:120	 sample is 6.000000    2.200000   5.000000   1.500000 ---->	this is 1 class
+No:121	 sample is 6.900000    3.200000   5.700000   2.300000 ---->	this is 2 class
+No:122	 sample is 5.600000    2.800000   4.900000   2.000000 ---->	this is 1 class
+No:123	 sample is 7.700000    2.800000   6.700000   2.000000 ---->	this is 2 class
+No:124	 sample is 6.300000    2.700000   4.900000   1.800000 ---->	this is 1 class
+No:125	 sample is 6.700000    3.300000   5.700000   2.100000 ---->	this is 2 class
+No:126	 sample is 7.200000    3.200000   6.000000   1.800000 ---->	this is 2 class
+No:127	 sample is 6.200000    2.800000   4.800000   1.800000 ---->	this is 1 class
+No:128	 sample is 6.100000    3.000000   4.900000   1.800000 ---->	this is 1 class
+No:129	 sample is 6.400000    2.800000   5.600000   2.100000 ---->	this is 2 class
+No:130	 sample is 7.200000    3.000000   5.800000   1.600000 ---->	this is 2 class
+No:131	 sample is 7.400000    2.800000   6.100000   1.900000 ---->	this is 2 class
+No:132	 sample is 7.900000    3.800000   6.400000   2.000000 ---->	this is 2 class
+No:133	 sample is 6.400000    2.800000   5.600000   2.200000 ---->	this is 2 class
+No:134	 sample is 6.300000    2.800000   5.100000   1.500000 ---->	this is 1 class
+No:135	 sample is 6.100000    2.600000   5.600000   1.400000 ---->	this is 1 class
+No:136	 sample is 7.700000    3.000000   6.100000   2.300000 ---->	this is 2 class
+No:137	 sample is 6.300000    3.400000   5.600000   2.400000 ---->	this is 2 class
+No:138	 sample is 6.400000    3.100000   5.500000   1.800000 ---->	this is 2 class
+No:139	 sample is 6.000000    3.000000   4.800000   1.800000 ---->	this is 1 class
+No:140	 sample is 6.900000    3.100000   5.400000   2.100000 ---->	this is 2 class
+No:141	 sample is 6.700000    3.100000   5.600000   2.400000 ---->	this is 2 class
+No:142	 sample is 6.900000    3.100000   5.100000   2.300000 ---->	this is 2 class
+No:143	 sample is 5.800000    2.700000   5.100000   1.900000 ---->	this is 1 class
+No:144	 sample is 6.800000    3.200000   5.900000   2.300000 ---->	this is 2 class
+No:145	 sample is 6.700000    3.300000   5.700000   2.500000 ---->	this is 2 class
+No:146	 sample is 6.700000    3.000000   5.200000   2.300000 ---->	this is 2 class
+No:147	 sample is 6.300000    2.500000   5.000000   1.900000 ---->	this is 1 class
+No:148	 sample is 6.500000    3.000000   5.200000   2.000000 ---->	this is 2 class
+No:149	 sample is 6.200000    3.400000   5.400000   2.300000 ---->	this is 2 class
+No:150	 sample is 5.900000    3.000000   5.100000   1.800000 ---->	this is 1 class
+target 1 is 6.009510    2.819781   5.068486   1.820528
+target 2 is 6.406676    3.228356   5.357221   2.236506
+target 3 is 5.217648    2.618160   4.167314   1.468952
+ 7 times iteration
+No:1	 sample is 5.100000    3.500000   1.400000   0.200000 ---->	this is 3 class
+No:2	 sample is 4.900000    3.000000   1.400000   0.200000 ---->	this is 3 class
+No:3	 sample is 4.700000    3.200000   1.300000   0.200000 ---->	this is 3 class
+No:4	 sample is 4.600000    3.100000   1.500000   0.200000 ---->	this is 3 class
+No:5	 sample is 5.000000    3.600000   1.400000   0.200000 ---->	this is 3 class
+No:6	 sample is 5.400000    3.900000   1.700000   0.400000 ---->	this is 3 class
+No:7	 sample is 4.600000    3.400000   1.400000   0.300000 ---->	this is 3 class
+No:8	 sample is 5.000000    3.400000   1.500000   0.200000 ---->	this is 3 class
+No:9	 sample is 4.400000    2.900000   1.400000   0.200000 ---->	this is 3 class
+No:10	 sample is 4.900000    3.100000   1.500000   0.100000 ---->	this is 3 class
+No:11	 sample is 5.400000    3.700000   1.500000   0.200000 ---->	this is 3 class
+No:12	 sample is 4.800000    3.400000   1.600000   0.200000 ---->	this is 3 class
+No:13	 sample is 4.800000    3.000000   1.400000   0.100000 ---->	this is 3 class
+No:14	 sample is 4.300000    3.000000   1.100000   0.100000 ---->	this is 3 class
+No:15	 sample is 5.800000    4.000000   1.200000   0.200000 ---->	this is 3 class
+No:16	 sample is 5.700000    4.400000   1.500000   0.400000 ---->	this is 3 class
+No:17	 sample is 5.400000    3.900000   1.300000   0.400000 ---->	this is 3 class
+No:18	 sample is 5.100000    3.500000   1.400000   0.300000 ---->	this is 3 class
+No:19	 sample is 5.700000    3.800000   1.700000   0.300000 ---->	this is 3 class
+No:20	 sample is 5.100000    3.800000   1.500000   0.300000 ---->	this is 3 class
+No:21	 sample is 5.400000    3.400000   1.700000   0.200000 ---->	this is 3 class
+No:22	 sample is 5.100000    3.700000   1.500000   0.400000 ---->	this is 3 class
+No:23	 sample is 4.600000    3.600000   1.000000   0.200000 ---->	this is 3 class
+No:24	 sample is 5.100000    3.300000   1.700000   0.500000 ---->	this is 3 class
+No:25	 sample is 4.800000    3.400000   1.900000   0.200000 ---->	this is 3 class
+No:26	 sample is 5.000000    3.000000   1.600000   0.200000 ---->	this is 3 class
+No:27	 sample is 5.000000    3.400000   1.600000   0.400000 ---->	this is 3 class
+No:28	 sample is 5.200000    3.500000   1.500000   0.200000 ---->	this is 3 class
+No:29	 sample is 5.200000    3.400000   1.400000   0.200000 ---->	this is 3 class
+No:30	 sample is 4.700000    3.200000   1.600000   0.200000 ---->	this is 3 class
+No:31	 sample is 4.800000    3.100000   1.600000   0.200000 ---->	this is 3 class
+No:32	 sample is 5.400000    3.400000   1.500000   0.400000 ---->	this is 3 class
+No:33	 sample is 5.200000    4.100000   1.500000   0.100000 ---->	this is 3 class
+No:34	 sample is 5.500000    4.200000   1.400000   0.200000 ---->	this is 3 class
+No:35	 sample is 4.900000    3.100000   1.500000   0.100000 ---->	this is 3 class
+No:36	 sample is 5.000000    3.200000   1.200000   0.200000 ---->	this is 3 class
+No:37	 sample is 5.500000    3.500000   1.300000   0.200000 ---->	this is 3 class
+No:38	 sample is 4.900000    3.100000   1.500000   0.100000 ---->	this is 3 class
+No:39	 sample is 4.400000    3.000000   1.300000   0.200000 ---->	this is 3 class
+No:40	 sample is 5.100000    3.400000   1.500000   0.200000 ---->	this is 3 class
+No:41	 sample is 5.000000    3.500000   1.300000   0.300000 ---->	this is 3 class
+No:42	 sample is 4.500000    2.300000   1.300000   0.300000 ---->	this is 3 class
+No:43	 sample is 4.400000    3.200000   1.300000   0.200000 ---->	this is 3 class
+No:44	 sample is 5.000000    3.500000   1.600000   0.600000 ---->	this is 3 class
+No:45	 sample is 5.100000    3.800000   1.900000   0.400000 ---->	this is 3 class
+No:46	 sample is 4.800000    3.000000   1.400000   0.300000 ---->	this is 3 class
+No:47	 sample is 5.100000    3.800000   1.600000   0.200000 ---->	this is 3 class
+No:48	 sample is 4.600000    3.200000   1.400000   0.200000 ---->	this is 3 class
+No:49	 sample is 5.300000    3.700000   1.500000   0.200000 ---->	this is 3 class
+No:50	 sample is 5.000000    3.300000   1.400000   0.200000 ---->	this is 3 class
+No:51	 sample is 7.000000    3.200000   4.700000   1.400000 ---->	this is 1 class
+No:52	 sample is 6.400000    3.200000   4.500000   1.500000 ---->	this is 1 class
+No:53	 sample is 6.900000    3.100000   4.900000   1.500000 ---->	this is 1 class
+No:54	 sample is 5.500000    2.300000   4.000000   1.300000 ---->	this is 3 class
+No:55	 sample is 6.500000    2.800000   4.600000   1.500000 ---->	this is 1 class
+No:56	 sample is 5.700000    2.800000   4.500000   1.300000 ---->	this is 3 class
+No:57	 sample is 6.300000    3.300000   4.700000   1.600000 ---->	this is 1 class
+No:58	 sample is 4.900000    2.400000   3.300000   1.000000 ---->	this is 3 class
+No:59	 sample is 6.600000    2.900000   4.600000   1.300000 ---->	this is 1 class
+No:60	 sample is 5.200000    2.700000   3.900000   1.400000 ---->	this is 3 class
+No:61	 sample is 5.000000    2.000000   3.500000   1.000000 ---->	this is 3 class
+No:62	 sample is 5.900000    3.000000   4.200000   1.500000 ---->	this is 3 class
+No:63	 sample is 6.000000    2.200000   4.000000   1.000000 ---->	this is 3 class
+No:64	 sample is 6.100000    2.900000   4.700000   1.400000 ---->	this is 1 class
+No:65	 sample is 5.600000    2.900000   3.600000   1.300000 ---->	this is 3 class
+No:66	 sample is 6.700000    3.100000   4.400000   1.400000 ---->	this is 1 class
+No:67	 sample is 5.600000    3.000000   4.500000   1.500000 ---->	this is 3 class
+No:68	 sample is 5.800000    2.700000   4.100000   1.000000 ---->	this is 3 class
+No:69	 sample is 6.200000    2.200000   4.500000   1.500000 ---->	this is 1 class
+No:70	 sample is 5.600000    2.500000   3.900000   1.100000 ---->	this is 3 class
+No:71	 sample is 5.900000    3.200000   4.800000   1.800000 ---->	this is 1 class
+No:72	 sample is 6.100000    2.800000   4.000000   1.300000 ---->	this is 3 class
+No:73	 sample is 6.300000    2.500000   4.900000   1.500000 ---->	this is 1 class
+No:74	 sample is 6.100000    2.800000   4.700000   1.200000 ---->	this is 1 class
+No:75	 sample is 6.400000    2.900000   4.300000   1.300000 ---->	this is 1 class
+No:76	 sample is 6.600000    3.000000   4.400000   1.400000 ---->	this is 1 class
+No:77	 sample is 6.800000    2.800000   4.800000   1.400000 ---->	this is 1 class
+No:78	 sample is 6.700000    3.000000   5.000000   1.700000 ---->	this is 1 class
+No:79	 sample is 6.000000    2.900000   4.500000   1.500000 ---->	this is 1 class
+No:80	 sample is 5.700000    2.600000   3.500000   1.000000 ---->	this is 3 class
+No:81	 sample is 5.500000    2.400000   3.800000   1.100000 ---->	this is 3 class
+No:82	 sample is 5.500000    2.400000   3.700000   1.000000 ---->	this is 3 class
+No:83	 sample is 5.800000    2.700000   3.900000   1.200000 ---->	this is 3 class
+No:84	 sample is 6.000000    2.700000   5.100000   1.600000 ---->	this is 1 class
+No:85	 sample is 5.400000    3.000000   4.500000   1.500000 ---->	this is 3 class
+No:86	 sample is 6.000000    3.400000   4.500000   1.600000 ---->	this is 1 class
+No:87	 sample is 6.700000    3.100000   4.700000   1.500000 ---->	this is 1 class
+No:88	 sample is 6.300000    2.300000   4.400000   1.300000 ---->	this is 1 class
+No:89	 sample is 5.600000    3.000000   4.100000   1.300000 ---->	this is 3 class
+No:90	 sample is 5.500000    2.500000   4.000000   1.300000 ---->	this is 3 class
+No:91	 sample is 5.500000    2.600000   4.400000   1.200000 ---->	this is 3 class
+No:92	 sample is 6.100000    3.000000   4.600000   1.400000 ---->	this is 1 class
+No:93	 sample is 5.800000    2.600000   4.000000   1.200000 ---->	this is 3 class
+No:94	 sample is 5.000000    2.300000   3.300000   1.000000 ---->	this is 3 class
+No:95	 sample is 5.600000    2.700000   4.200000   1.300000 ---->	this is 3 class
+No:96	 sample is 5.700000    3.000000   4.200000   1.200000 ---->	this is 3 class
+No:97	 sample is 5.700000    2.900000   4.200000   1.300000 ---->	this is 3 class
+No:98	 sample is 6.200000    2.900000   4.300000   1.300000 ---->	this is 1 class
+No:99	 sample is 5.100000    2.500000   3.000000   1.100000 ---->	this is 3 class
+No:100	 sample is 5.700000    2.800000   4.100000   1.300000 ---->	this is 3 class
+No:101	 sample is 6.300000    3.300000   6.000000   2.500000 ---->	this is 2 class
+No:102	 sample is 5.800000    2.700000   5.100000   1.900000 ---->	this is 1 class
+No:103	 sample is 7.100000    3.000000   5.900000   2.100000 ---->	this is 2 class
+No:104	 sample is 6.300000    2.900000   5.600000   1.800000 ---->	this is 2 class
+No:105	 sample is 6.500000    3.000000   5.800000   2.200000 ---->	this is 2 class
+No:106	 sample is 7.600000    3.000000   6.600000   2.100000 ---->	this is 2 class
+No:107	 sample is 4.900000    2.500000   4.500000   1.700000 ---->	this is 3 class
+No:108	 sample is 7.300000    2.900000   6.300000   1.800000 ---->	this is 2 class
+No:109	 sample is 6.700000    2.500000   5.800000   1.800000 ---->	this is 2 class
+No:110	 sample is 7.200000    3.600000   6.100000   2.500000 ---->	this is 2 class
+No:111	 sample is 6.500000    3.200000   5.100000   2.000000 ---->	this is 2 class
+No:112	 sample is 6.400000    2.700000   5.300000   1.900000 ---->	this is 1 class
+No:113	 sample is 6.800000    3.000000   5.500000   2.100000 ---->	this is 2 class
+No:114	 sample is 5.700000    2.500000   5.000000   2.000000 ---->	this is 1 class
+No:115	 sample is 5.800000    2.800000   5.100000   2.400000 ---->	this is 1 class
+No:116	 sample is 6.400000    3.200000   5.300000   2.300000 ---->	this is 2 class
+No:117	 sample is 6.500000    3.000000   5.500000   1.800000 ---->	this is 2 class
+No:118	 sample is 7.700000    3.800000   6.700000   2.200000 ---->	this is 2 class
+No:119	 sample is 7.700000    2.600000   6.900000   2.300000 ---->	this is 2 class
+No:120	 sample is 6.000000    2.200000   5.000000   1.500000 ---->	this is 1 class
+No:121	 sample is 6.900000    3.200000   5.700000   2.300000 ---->	this is 2 class
+No:122	 sample is 5.600000    2.800000   4.900000   2.000000 ---->	this is 1 class
+No:123	 sample is 7.700000    2.800000   6.700000   2.000000 ---->	this is 2 class
+No:124	 sample is 6.300000    2.700000   4.900000   1.800000 ---->	this is 1 class
+No:125	 sample is 6.700000    3.300000   5.700000   2.100000 ---->	this is 2 class
+No:126	 sample is 7.200000    3.200000   6.000000   1.800000 ---->	this is 2 class
+No:127	 sample is 6.200000    2.800000   4.800000   1.800000 ---->	this is 1 class
+No:128	 sample is 6.100000    3.000000   4.900000   1.800000 ---->	this is 1 class
+No:129	 sample is 6.400000    2.800000   5.600000   2.100000 ---->	this is 2 class
+No:130	 sample is 7.200000    3.000000   5.800000   1.600000 ---->	this is 2 class
+No:131	 sample is 7.400000    2.800000   6.100000   1.900000 ---->	this is 2 class
+No:132	 sample is 7.900000    3.800000   6.400000   2.000000 ---->	this is 2 class
+No:133	 sample is 6.400000    2.800000   5.600000   2.200000 ---->	this is 2 class
+No:134	 sample is 6.300000    2.800000   5.100000   1.500000 ---->	this is 1 class
+No:135	 sample is 6.100000    2.600000   5.600000   1.400000 ---->	this is 1 class
+No:136	 sample is 7.700000    3.000000   6.100000   2.300000 ---->	this is 2 class
+No:137	 sample is 6.300000    3.400000   5.600000   2.400000 ---->	this is 2 class
+No:138	 sample is 6.400000    3.100000   5.500000   1.800000 ---->	this is 2 class
+No:139	 sample is 6.000000    3.000000   4.800000   1.800000 ---->	this is 1 class
+No:140	 sample is 6.900000    3.100000   5.400000   2.100000 ---->	this is 2 class
+No:141	 sample is 6.700000    3.100000   5.600000   2.400000 ---->	this is 2 class
+No:142	 sample is 6.900000    3.100000   5.100000   2.300000 ---->	this is 2 class
+No:143	 sample is 5.800000    2.700000   5.100000   1.900000 ---->	this is 1 class
+No:144	 sample is 6.800000    3.200000   5.900000   2.300000 ---->	this is 2 class
+No:145	 sample is 6.700000    3.300000   5.700000   2.500000 ---->	this is 2 class
+No:146	 sample is 6.700000    3.000000   5.200000   2.300000 ---->	this is 2 class
+No:147	 sample is 6.300000    2.500000   5.000000   1.900000 ---->	this is 1 class
+No:148	 sample is 6.500000    3.000000   5.200000   2.000000 ---->	this is 2 class
+No:149	 sample is 6.200000    3.400000   5.400000   2.300000 ---->	this is 2 class
+No:150	 sample is 5.900000    3.000000   5.100000   1.800000 ---->	this is 1 class
+target 1 is 6.009510    2.819781   5.068486   1.820528
+target 2 is 6.406676    3.228356   5.357221   2.236506
+target 3 is 5.217648    2.618160   4.167314   1.468952
+ 
+!!!!have found res !!!!
+
+
+________________built in function kmeans_______________
+
+point 1 is 6.853846    3.076923   5.715385   2.053846
+point 2 is 5.883607    2.740984   4.388525   1.434426
+point 3 is 5.006000    3.418000   1.464000   0.244000
+
+
+class	||	distence1	||	distence2	||	distence3	
+	3	||	25.314260	||	11.645232	||	0.021592	
+	3	||	25.882722	||	11.489659	||	0.191992	
+	3	||	27.586568	||	12.674413	||	0.169992	
+	3	||	26.286568	||	11.643921	||	0.269192	
+	3	||	25.769645	||	11.973757	||	0.039192	
+	3	||	21.649645	||	9.875396	||	0.467592	
+	3	||	26.882722	||	12.300150	||	0.172392	
+	3	||	24.747337	||	11.082446	||	0.003592	
+	3	||	28.111953	||	12.681462	||	0.641592	
+	3	||	25.405030	||	11.220642	||	0.134392	
+	3	||	23.708107	||	11.020970	||	0.237992	
+	3	||	24.695799	||	10.908183	||	0.063192	
+	3	||	26.664260	||	11.953265	||	0.241992	
+	3	||	31.647337	||	15.169987	||	0.826392	
+	3	||	25.788107	||	13.282610	||	1.040792	
+	3	||	23.586568	||	12.199659	||	1.471592	
+	3	||	25.021953	||	12.186216	||	0.438792	
+	3	||	24.953491	||	11.408347	||	0.022792	
+	3	||	21.053491	||	9.670314	||	0.686392	
+	3	||	24.444260	||	11.366052	||	0.159192	
+	3	||	21.778107	||	9.420150	||	0.213192	
+	3	||	23.968876	||	10.947364	||	0.113992	
+	3	||	31.025030	||	15.391462	||	0.415192	
+	3	||	21.663491	||	9.027855	||	0.143992	
+	3	||	22.316568	||	9.325069	||	0.234792	
+	3	||	23.815799	||	10.147528	||	0.195192	
+	3	||	23.212722	||	10.060970	||	0.043192	
+	3	||	24.120414	||	10.910806	||	0.047592	
+	3	||	24.898876	||	11.356708	||	0.043992	
+	3	||	25.027337	||	10.911298	||	0.161592	
+	3	||	24.591953	||	10.602773	||	0.163992	
+	3	||	22.722722	||	10.081790	||	0.181192	
+	3	||	25.368876	||	12.438511	||	0.524792	
+	3	||	25.153491	||	12.730970	||	0.861592	
+	3	||	25.405030	||	11.220642	||	0.134392	
+	3	||	27.277337	||	12.681954	||	0.119192	
+	3	||	24.944260	||	11.786052	||	0.279592	
+	3	||	25.405030	||	11.220642	||	0.134392	
+	3	||	28.959645	||	13.330970	||	0.570792	
+	3	||	24.386568	||	10.915724	||	0.012392	
+	3	||	26.187337	||	12.182773	||	0.036792	
+	3	||	28.715799	||	12.934741	||	1.535992	
+	3	||	28.968876	||	13.474577	||	0.443592	
+	3	||	22.665799	||	9.829003	||	0.151992	
+	3	||	20.891183	||	8.998347	||	0.369192	
+	3	||	25.922722	||	11.459495	||	0.224392	
+	3	||	23.971953	||	11.035232	||	0.175192	
+	3	||	27.154260	||	12.313429	||	0.218392	
+	3	||	24.008876	||	11.127691	||	0.169192	
+	3	||	25.545799	||	11.548347	||	0.019992	
+	1	||	1.495030	||	1.555232	||	15.831592	
+	2	||	2.005030	||	0.494085	||	12.785592	
+	1	||	0.974260	||	1.427855	||	17.071992	
+	2	||	5.947337	||	0.510642	||	9.040392	
+	2	||	1.752722	||	0.432446	||	14.025992	
+	2	||	3.453491	||	0.067691	||	11.195992	
+	2	||	1.593491	||	0.610314	||	13.998792	
+	2	||	11.220414	||	2.457364	||	4.989992	
+	2	||	1.908107	||	0.601298	||	13.758792	
+	2	||	6.600414	||	0.708839	||	7.823592	
+	2	||	10.615030	||	2.308019	||	6.727592	
+	2	||	3.518876	||	0.107200	||	10.037192	
+	2	||	5.551183	||	0.645888	||	9.474392	
+	2	||	2.058107	||	0.170314	||	13.273192	
+	2	||	6.646568	||	0.745560	||	6.298792	
+	2	||	2.181953	||	0.796708	||	12.927192	
+	2	||	3.361953	||	0.164249	||	11.322392	
+	2	||	4.972722	||	0.280642	||	8.665992	
+	2	||	2.980414	||	0.409495	||	13.703992	
+	2	||	6.110414	||	0.489003	||	7.862392	
+	2	||	1.827337	||	0.513921	||	14.396792	
+	2	||	4.155799	||	0.219331	||	9.125192	
+	2	||	1.611183	||	0.497364	||	15.900792	
+	2	||	2.405030	||	0.202282	||	12.964392	
+	2	||	2.808876	||	0.317855	||	11.369592	
+	2	||	2.228107	||	0.581626	||	12.671992	
+	2	||	1.345030	||	1.013757	||	16.065592	
+	1	||	0.666568	||	1.178019	||	17.667592	
+	2	||	2.544260	||	0.055560	||	12.051192	
+	2	||	7.577337	||	1.031790	||	5.867592	
+	2	||	6.869645	||	0.721626	||	7.469992	
+	2	||	7.463491	||	0.926216	||	6.851592	
+	2	||	5.277337	||	0.302282	||	7.993992	
+	2	||	1.455799	||	0.548839	||	16.562792	
+	2	||	3.903491	||	0.317691	||	11.124792	
+	2	||	2.516568	||	0.487691	||	12.044392	
+	2	||	1.361953	||	0.896708	||	15.019992	
+	2	||	3.208876	||	0.386052	||	12.659592	
+	2	||	4.755799	||	0.248839	||	8.591192	
+	2	||	5.676568	||	0.374249	||	8.633192	
+	2	||	4.519645	||	0.222118	||	10.447192	
+	2	||	2.245799	||	0.159823	||	12.542392	
+	2	||	5.009645	||	0.232773	||	8.644792	
+	2	||	10.985030	||	2.348839	||	5.192392	
+	2	||	4.578876	||	0.135724	||	9.469192	
+	2	||	4.362722	||	0.191298	||	9.055992	
+	2	||	4.227337	||	0.112610	||	9.350792	
+	2	||	3.030414	||	0.151298	||	10.851992	
+	2	||	11.691953	||	2.711954	||	3.943592	
+	2	||	4.585799	||	0.138511	||	8.927192	
+	1	||	0.636568	||	4.218183	||	27.353192	
+	2	||	1.655030	||	0.731626	||	17.108792	
+	1	||	0.102722	||	4.274249	||	27.682392	
+	1	||	0.415799	||	1.799987	||	21.470392	
+	1	||	0.159645	||	3.025396	||	25.033592	
+	1	||	1.347337	||	8.346708	||	36.726792	
+	2	||	5.752722	||	1.108511	||	12.191192	
+	1	||	0.636568	||	5.818839	||	31.338792	
+	1	||	0.428107	||	2.850478	||	24.934392	
+	1	||	0.740414	||	6.535396	||	31.428792	
+	1	||	0.521953	||	1.416708	||	18.583592	
+	1	||	0.544260	||	1.315888	||	19.915992	
+	1	||	0.057337	||	2.585232	||	23.127192	
+	2	||	2.178876	||	0.785560	||	16.911192	
+	2	||	1.685799	||	1.449003	||	18.881192	
+	1	||	0.454260	||	2.057364	||	20.932792	
+	1	||	0.241953	||	1.816052	||	21.117192	
+	1	||	2.229645	||	10.349823	||	38.645192	
+	1	||	2.407337	||	10.375888	||	41.703992	
+	2	||	2.316568	||	0.684413	||	16.552392	
+	1	||	0.078107	||	3.712937	||	25.805592	
+	2	||	2.316568	||	0.665396	||	15.624392	
+	1	||	1.765030	||	8.965560	||	38.138792	
+	2	||	1.178107	||	0.570314	||	16.417192	
+	1	||	0.075799	||	3.141954	||	24.271992	
+	1	||	0.280414	||	4.674085	||	27.857592	
+	2	||	1.406568	||	0.406544	||	15.357592	
+	2	||	1.303491	||	0.509167	||	15.598792	
+	1	||	0.298107	||	2.180806	||	22.876392	
+	1	||	0.338876	||	3.819659	||	25.627992	
+	1	||	0.546568	||	5.448839	||	30.347992	
+	1	||	2.088876	||	9.553265	||	35.968792	
+	1	||	0.317337	||	2.323921	||	23.257592	
+	2	||	1.068876	||	0.687364	||	16.854392	
+	1	||	1.236568	||	1.535560	||	20.308792	
+	1	||	0.930414	||	7.044741	||	33.151992	
+	1	||	0.544260	||	3.007691	||	23.429592	
+	1	||	0.317337	||	1.764577	||	20.754792	
+	2	||	1.637337	||	0.383593	||	14.712792	
+	1	||	0.104260	||	2.628019	||	22.625192	
+	1	||	0.157337	||	3.195396	||	24.725592	
+	1	||	0.441953	||	2.417364	||	21.135992	
+	2	||	1.655030	||	0.731626	||	17.108792	
+	1	||	0.112722	||	4.084249	||	27.171192	
+	1	||	0.272722	||	3.834413	||	25.916792	
+	1	||	0.355799	||	2.141298	||	21.229192	
+	2	||	1.175030	||	0.822118	||	17.762792	
+	1	||	0.399645	||	1.425396	||	19.447992	
+	1	||	0.691953	||	2.306708	||	21.145192	
+	2	||	1.358876	||	0.707200	||	16.615592	

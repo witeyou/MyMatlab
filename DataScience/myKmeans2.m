@@ -1,22 +1,29 @@
+% 模拟K-means算法
+% 输入:待分类矩阵X.(每一列为一个样本,每一行为一个属性)
+%      分类数:K
+% 输出:分好类的矩阵Y:在X矩阵的最后加上一行,存储了类标号
+
+% 设置算法输入X,K
 clc;
 clear;
 K = 3;    %这边用来设置K的初始值
 load('../dataSet/iris_data.mat'); %这边导入样本
 X = iris_data';
 clear iris_data;
-%列数是样本个数记作N,行数是样本的特征个数记作M
-[M,N] = size(X);
 
-RandNoK = floor(rand(1,K)*N); %RandNoK为 1xK 的K个随机数
-centerMat = X(:,RandNoK);     %初始的K个中心
-clcMat = cat(1,X,zeros(1,N)); %最底下加了一列用来等会存类簇信息
+[M,N] = size(X);                  % M:样本属性数    N:样本个数
+% 取得随机的初始K个中心,拼接成centerMat
+RandNoK = floor(rand(1,K)*N);     % RandNoK为 1xK 的K个随机数
+centerMat = X(:,RandNoK);         % 根据随机值取得的初始的K个中心
+
+clcMat = cat(1,X,zeros(1,N));     % X矩阵最底下加了一行用来等会存储类簇信息
 
 % 设置最大迭代次数20
 for time=1:20
     fprintf("\t  this is  %d times  \n",time);
-    for i=1:N
-        disTmpMat = zeros(1,K); %临时存放到K个中心的距离
-        % 计算出到K个中心的距离
+    % step1:计算每个样本到K个中心的距离,并分类
+    for i=1:N                     
+        disTmpMat = zeros(1,K);   % (1*K)的矩阵.临时存放到K个中心的距离
         for j = 1:K
             tmp = clcMat(1:M,i)-centerMat(1:M,j);
             disTmpMat(1,j) = tmp'*tmp;
@@ -25,11 +32,12 @@ for time=1:20
         % 这个小技巧可以记录一下,在一个行向量中找到最小的一个值的位置
         % 这边结束clcMat的最后一行已经添加上了类标号
     end
-    centerMatNew = zeros(M+1,K);  %最后一行是计数用的
-    % 计算新的聚类中心
+    
+    % step2:计算新的聚类中心
+    centerMatNew = zeros(M+1,K);  %用于计算新的聚类中心,最后一行是计数用的
     for i=1:N
         for j=1:K
-            if clcMat(M+1,i)==j
+            if clcMat(M+1,i)==j   %clcMat的最后一行是类簇标号
                 centerMatNew(:,j)= centerMatNew(:,j)+cat(1,clcMat(1:M,i),1);
             end
         end
@@ -37,18 +45,21 @@ for time=1:20
     for i=1:K
         centerMatNew(:,i)=centerMatNew(:,i)/centerMatNew(M+1,i);
     end
+    
     % 判断是否到达预期,继续迭代
     diffMat = centerMatNew(1:M,:)-centerMat;
     disp(diffMat);
-    if diffMat==0
-        disp("算法结束");
+    if diffMat==0                 % 聚类中心已经不在改变
+        disp("complete");
         break;
     else
-        disp("开始下一轮");
+        disp("next times");
         centerMat = centerMatNew(1:M,:);
     end
 end
-clear i j centerMat centerMatNew diffMat time tmp disTmpMat;
+Y = clcMat;
+clear i j centerMat centerMatNew diffMat time tmp disTmpMat clcMat;
+
 
 
 % % 正确率判断,不通用

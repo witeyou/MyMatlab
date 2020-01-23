@@ -101,26 +101,27 @@ end
 if isfield(options,'keepMean') && options.keepMean
     ;
 else
+    %判断是否是稀疏矩阵,如果是则将其展开
     if issparse(data)
         data = full(data);
     end
-    sampleMean = mean(data);
-    data = (data - repmat(sampleMean,nSmp,1));
+    sampleMean = mean(data);% data每一列的均值
+    data = (data - repmat(sampleMean,nSmp,1));% 将上一行的均值向量复制到完整大小并作减,最终实现data的中心化
 end
 %====================================================
 
-D = full(sum(W,2));
+D = full(sum(W,2));% 可同时应对稀释矩阵和普通矩阵
 
 if ~isfield(options,'Regu') || ~options.Regu
     DToPowerHalf = D.^.5;
-    D_mhalf = DToPowerHalf.^-1;
-
+    D_mhalf = DToPowerHalf.^-1; % D^{-1/2}
+    % 这个东西的作用好像是取W的标准化
     if nSmp < 5000
         tmpD_mhalf = repmat(D_mhalf,1,nSmp);
         W = (tmpD_mhalf .* W) .* tmpD_mhalf';
         clear tmpD_mhalf;
     else
-        [i_idx,j_idx,v_idx] = find(W);
+        [i_idx,j_idx,v_idx] = find(W);% 根据权重矩阵W,找到所有邻接的边
         v1_idx = zeros(size(v_idx));
         for i=1:length(v_idx)
             v1_idx(i) = v_idx(i) * D_mhalf(i_idx(i)) * D_mhalf(j_idx(i));
@@ -129,8 +130,9 @@ if ~isfield(options,'Regu') || ~options.Regu
         clear i_idx j_idx v_idx v1_idx
     end
     W = max(W,W');
-    
+    % 这边出来的是标准化的W
     data = repmat(DToPowerHalf,1,nFea) .* data;
+    % 参考LGE函数具体实现
     [eigvector, eigvalue] = LGE(W, [], options, data);
 else
     options.ReguAlpha = options.ReguAlpha*sum(D)/length(D);
@@ -139,7 +141,7 @@ else
     [eigvector, eigvalue] = LGE(W, D, options, data);
 end
 
-eigIdx = find(eigvalue < 1e-3);
-eigvalue (eigIdx) = [];
+eigIdx = find(eigvalue < 1e-3);% 找到特征值为0的位置
+eigvalue (eigIdx) = [];% 剔除为0的特征值及其对应的特征向量
 eigvector(:,eigIdx) = [];
 

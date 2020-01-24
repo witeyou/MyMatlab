@@ -1,5 +1,5 @@
 function D = EuDist2(fea_a,fea_b,bSqrt)
-%EUDIST2 Efficiently Compute the Euclidean Distance Matrix by Exploring the
+%EUDIST2 Efficiently Compute the Euclidean{欧几里得距离} Distance Matrix by Exploring the
 %Matlab matrix operations.
 %
 %   D = EuDist(fea_a,fea_b)
@@ -27,14 +27,14 @@ if ~exist('bSqrt','var')
     bSqrt = 1;
 end
 
-if (~exist('fea_b','var')) || isempty(fea_b)
-    aa = sum(fea_a.*fea_a,2);
-    ab = fea_a*fea_a';
+if (~exist('fea_b','var')) || isempty(fea_b)  % fea_b不存在或空
+    aa = sum(fea_a.*fea_a,2);  %每一行的平方求和
+    ab = fea_a*fea_a';         % nSmp*nSmp
     
-    if issparse(aa)
+    if issparse(aa)            % 保证aa是满矩阵
         aa = full(aa);
     end
-    
+    % bsxfun()-->对两个数组应用按元素运算（启用隐式扩展）
     D = bsxfun(@plus,aa,aa') - 2*ab;
     D(D<0) = 0;
     if bSqrt

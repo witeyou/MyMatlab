@@ -55,7 +55,7 @@ function W = constructW(fea,options)
 %                          if 'Supervised' NeighborMode & bLDA == 1,
 %                          bSelfConnected will always be 1. Default 0.
 %            bTrueKNN  -   0 or 1. If 1, will construct a truly kNN graph
-%                          (Not symmetric!). Default will be 0. Only valid
+%                          (Not symmetric{对称}!). Default will be 0. Only valid
 %                          for 'KNN' NeighborMode
 %
 %
@@ -115,12 +115,13 @@ if ~isfield(options,'bNormalized')
 end
 
 %=================================================
+% 缺省时,默认KNN近邻模式
 if ~isfield(options,'NeighborMode')
     options.NeighborMode = 'KNN';
 end
 
 switch lower(options.NeighborMode)
-    case {lower('KNN')}  %For simplicity, we include the data point itself in the kNN
+    case {lower('KNN')}  %For simplicity{朴素}, we include the data point itself in the kNN
         if ~isfield(options,'k')
             options.k = 5;
         end
@@ -145,7 +146,7 @@ switch lower(options.NeighborMode)
 end
 
 %=================================================
-
+% 默认热核函数作权值
 if ~isfield(options,'WeightMode')
     options.WeightMode = 'HeatKernel';
 end
@@ -160,6 +161,7 @@ switch lower(options.WeightMode)
             nSmp = size(fea,1);
             if nSmp > 3000
                 D = EuDist2(fea(randsample(nSmp,3000),:));
+                % randsample的作用是在从1-nSmp中随机产生3000个数组成的向量
             else
                 D = EuDist2(fea);
             end
@@ -173,6 +175,7 @@ end
 
 %=================================================
 
+% 默认不进行自连接
 if ~isfield(options,'bSelfConnected')
     options.bSelfConnected = 0;
 end
@@ -184,10 +187,12 @@ if isfield(options,'gnd')
 else
     nSmp = size(fea,1);
 end
+% 块大小的作用
 maxM = 62500000; %500M
 BlockSize = floor(maxM/(nSmp*3));
 
-
+% strcmpi函数用于字符串比较并且忽略大小写
+% 该if中包含了return
 if strcmpi(options.NeighborMode,'Supervised')
     Label = unique(options.gnd);
     nLabel = length(Label);
@@ -326,8 +331,10 @@ if bCosine && ~options.bNormalized
 end
 
 if strcmpi(options.NeighborMode,'KNN') && (options.k > 0)
-    if ~(bCosine && options.bNormalized)
+    if ~(bCosine && options.bNormalized)% 不是余弦距离模式
         G = zeros(nSmp*(options.k+1),3);
+        % ceil()向上取整
+        % 当nSmp=10W的时候ceil(nSmp/BlockSize)才能到54,低于10W的时候都是1
         for i = 1:ceil(nSmp/BlockSize)
             if i == ceil(nSmp/BlockSize)
                 smpIdx = (i-1)*BlockSize+1:nSmp;
